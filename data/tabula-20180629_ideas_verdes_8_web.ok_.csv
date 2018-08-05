@@ -1,0 +1,744 @@
+"ID"	"NOMBRE"	"SEXO"	"FECHA"	"MUNICIPIO"	"DPTO"	"RESPONSABLES"	"GRUPO/ PERFIL"	
+1	"Francisco Jaramillo Moreno"	"H"	"01/03/2016"	"Briceño"	"Antioquia"	"Paramilitares"	"Marcha Patriótica"	
+2	"Víctor Jaramillo Moreno"	"H"	"01/03/2016"	"Briceño"	"Antioquia"	"Paramilitares"	"Marcha Patriótica"	
+3	"Willinton Andrés Bañol"	"H"	"01/10/2016"	"Pereira"	"Risaralda"	"Desconocidos"	"Fundación Amor y Fe"	
+4	"Mario Alexi Tarache Pérez"	"H"	"01/14/2016"	"San Luis de Palenque"	"Casanare"	"Paramilitares"	"Líder comunal"	
+5	"Nelly Amaya Pérez"	"M"	"01/16/2016"	"San Calixto"	"Norte de Santander"	"Paramilitares"	"Presidente JAC - Sobreviviente de la UP"	
+6	"Johan Alexis Vargas"	"H"	"01/21/2016"	"Tumaco"	"Nariño"	"AGC"	"Conafro y Marcha Patriótica"	
+7	"Robinson Ávila Ortiz"	"H"	"01/29/2016"	"Algeciras"	"Huila"	"Desconocidos"	"Líder comunal"	
+8	"Senelia Rengifo Gómez"	"M"	"02/02/2016"	"Colón Y Génova"	"Nariño"	"Paramilitares"	"Sindicalista del magisterio"	
+							"Líder campesino de la Zona"	
+9	"Isaías Penagos"	"H"	"02/07/2016"	"Puerto Asís"	"Putumayo"	"Paramilitares"	"de Reservas Campesinas de La Perla Amazónica -"	
+							"Marcha Patriótica"	
+10	"Aníbal Coronado"	"H"	"02/18/2016"	"Ciénaga de Oro"	"Córdoba"	"Paramilitares"	"Líder comunal"	
+11	"Edwin Yonda"	"H"	"02/22/2016"	"Páez- Belalcázar"	"Cauca"	"Desconocidos"	"Comunero indígena reconocidopor el CRIC"	
+12	"José Armides Collo Lipons"	"H"	"02/22/2016"	"Páez"	"Cauca"	"Desconocidos"	"Comunero indígena reconocidopor el CRIC"	
+13	"Miguel Muños Fernández"	"H"	"02/25/2016"	"Páez- Belalcázar"	"Cauca"	"Desconocidos"	"Comunero indígena reconocidopor el CRIC"	
+							"Exempleado público de la"	
+14	"Iván Yardani Burbano"	"H"	"02/25/2016"	"Sucre"	"Cauca"	"Desconocidos"	"administración municipal de"	
+							"Sucre"	
+15	"Hanner Sebastián Corpus"	"H"	"02/26/2016"	"Santander"	"Cauca"	"Desconocidos"	"Comunero del Resguardo Ca-noas, Santander de Quilichao"	
+16	"Maricela Tombé"	"M"	"02/28/2016"	"El Tambo"	"Cauca"	"Paramilitares"	"JAC - Ascap, de El Tambo"	
+17	"Hernando Pérez Iriarte"	"H"	"03/02/2016"	"Palmitos"	"Sucre"	"Paramilitares"	"Proceso de reclamación de tierras Palmitos"	
+18	"William Alexander Oime Alarcón"	"H"	"03/02/2016"	"Popayán"	"Cauca"	"Paramilitares"	"Pueblo Indígena Yanakona, Gobernador del Resguardo de Rio Blanco"	
+19	"Klaus Zapata"	"H"	"03/06/2016"	"Soacha"	"Cundinamarca"	"Paramilitares"	"Estudiante de colegio, JUCO y Marcha Patriótica"	
+20	"William Castillo Chima"	"H"	"03/07/2016"	"El Bagre"	"Antioquia"	"Paramilitares"	"Aheramigua - Marcha Patriótica"	
+21	"Gil de Jesús Salgado"	"H"	"03/10/2016"	"Arauquita"	"Arauca"	"Paramilitares"	"ACA - Marcha patriótica"	
+22	"Sharon Dariana Mármol"	"M"	"03/11/2016"	"Santa Rosa"	"Bolívar"	"Desconocidos"	"Hija de líder de Fedeagromisbol"	
+23	"James Balanta Mera"	"H"	"03/15/2016"	"Caloto"	"Cauca"	"Paramilitares"	"Líder afrocolombiano de la vereda La Arrobleda"	
+24	"Orlando Olave"	"H"	"03/15/2016"	"Buenaventura"	"Valle del Cauca"	"Los Urabeños"	"Conafro - Marcha Patriótica"	
+25	"Luis Elviar Vergel"	"H"	"03/17/2016"	"Santa Marta"	"Magdalena"	"Los Pachencas - Paramilitares"	"Líder comunal"	
+							"Conafro, Plataforma"	
+26	"Adrián Quintero Moreno"	"H"	"03/18/2016"	"Buenaventura"	"Valle del Cauca"	"Los Urabeños"	"Antorcha Ciudadana y March"	
+							"Patriótica"	
+27	"Luis Enrique Ramírez Rivera"	"H"	"03/19/2016"	"El Zulia"	"Norte de San-tander"	"Paramilitares"	"Asofazul"	
+28	"Carlos Ariza"	"H"	"03/22/2016"	"Zipaquirá"	"Cundinamarca"	"Desconocidos"	"Líder comunal"	
+29	"Víctor Andrés Flórez"	"H"	"03/26/2016"	"Corinto"	"Cauca"	"Paramilitares"	"Astrazonac, Pupsoc, Marcha Patriótica"	
+30	"Omar Zambrano"	"H"	"03/26/2016"	"Corinto"	"Cauca"	"Paramilitares"	"Astrazonac-Fensuagro-CUT, Pupsoc, Marcha Patriótica"	
+31	"Erney Alvarado"	"H"	"03/26/2016"	"Corinto"	"Cauca"	"Paramilitares"	"Astrazonac-Fensuagro-CUT, Pupsoc, Marcha Patriótica"	
+32	"Samuel Caicedo Portocarrero"	"H"	"03/27/2016"	"Cali"	"Valle del Cauca"	"Paramilitares"	"Grupo folclórico de la Universidad Libre de Cali"	
+33	"Cristian Anacona Castro"	"H"	"03/27/2016"	"La Sierra"	"Cauca"	"Desconocidos"	"Comunero indígena del resguardo Río Blanco Sotará"	
+34	"Esteban Rodríguez Vega"	"H"	"04/02/2016"	"Sardinata"	"Norte de San-tander"	"Paramilitares"	"Líder comunal"	
+35	"Oswaldo Hernández Gutiérrez"	"H"	"04/10/2016"	"San Sebastián"	"Magdalena"	"Paramilitares"	"Sindicato Nacional de la Salud y la Seguridad Social (Sindess)"	
+36	"Rubiela Coicué"	"M"	"04/12/2016"	"Caloto"	"Cauca"	"Desconocidos"	"ACÍN, resguardo López Adentro"	
+							"Representante Legal del"	
+37	"Jesús Adilio Mosquera Palacios"	"H"	"04/14/2016"	"Quibdó"	"Chocó"	"Paramilitares"	"Consejo Comunitario de Realde Tanandó, miembro activo"	
+							"de Cocomacia"	
+38	"Wilson Hoyos"	"H"	"04/28/2016"	"El Bagre"	"Antioquia"	"Paramilitares"	"Líder comunal"	
+							"Comunero Indígena del"	
+39	"Jhon Edwar Bermeo"	"H"	"04/23/2016"	"Buenos Aires"	"Cauca"	"Desconocidos"	"resguardo de Pueblo Nuevo"	
+							"Ceral"	
+40	"Diego Cenen López Gómez"	"H"	"04/25/2016"	"Cajibío"	"Cauca"	"Desconocidos"	"Docente"	
+41	"Manuel Dolores Pino Perafán"	"H"	"05/04/2016"	"El Tambo"	"Cauca"	"Paramilitares"	"Secretario de la JAC de la vereda Fondas"	
+42	"José Albino Solarte"	"H"	"05/05/2016"	"Bolívar"	"Cauca"	"Águilas Negras"	"Comunidad campesina veredEl Guadual"	
+43	"Gonzalo Rentería Mosquera"	"H"	"05/12/2016"	"Pereira"	"Risaralda"	"Desconocidos"	"Presidente de la JAC del barrio El Plumón"	
+44	"Arvinson Flórez González"	"H"	"05/13/2016"	"Magangué"	"Bolívar"	"Paramilitares"	"Comunidad LGBTI del municipio de Córdoba Tetón"	
+							"Guardia del Pueblo Indígena"	
+45	"Manuel Chimá Pérez"	"H"	"05/20/2016"	"El Bagre"	"Antioquia"	"Paramilitares"	"Zenú, resguardo indígena"	
+							"Los Almendros"	
+46	"Willington Quibarecama Naquirucama"	"H"	"05/30/2016"	"Trujillo"	"Valle del Cauca"	"Policía Nacio- nal - Esmad"	"Pueblo indígena Embera resguardo Dachini, de Trujill(Valle)"	
+47	"Arnulfo González Velázquez"	"H"	"05/31/2016"	"Cimitarra"	"Santander"	"Paramilitares"	"Firamci"	
+	"William Cuetia Tróchez"	"H"	"05/16/2016"	"Corinto"	"Cauca"	"Desconocidos"	"Comunero Indígena del
+resguardo Páez de Corinto,
+Cauca"	
+49	"Gersaín Cerón"	"H"	"06/02/2016"	"Caldono"	"Cauca"	"Policía Nacional
+- Esmad"	"Pueblo Indígena Nasa.
+Resguardos de Caldono"	
+50	"Marco Aurelio Díaz"	"H"	"06/02/2016"	"Caldono"	"Cauca"	"Policía Nacional
+- Esmad"	"Pueblo Indígena Nasa.
+Resguardos de Caldono"	
+51	"Ramón Eduardo Acevedo
+Rojas"	"H"	"06/06/2016"	"Medellín"	"Antioquia"	"Paramilitares"	"Comité Municipal de
+Derechos Humanos para la
+Construcción de Paz y del
+Comité de Cárceles"	
+52	"Yolay Robinson Chica
+Jaramillo"	"H"	"06/11/2016"	"Liborina"	"Antioquia"	"Paramilitares"	"Corregimiento La Honda y
+Concejo de Liborina"	
+53	"Laureano Pil Ramos"	"H"	"06/14/2016"	"Páez"	"Cauca"	"Desconocidos"	"Docente de Guanacas"	
+54	"Amado Gómez"	"H"	"06/22/2016"	"Chigorodó"	"Antioquia"	"Paramilitares"	"Pueblo indígena Dojura"	
+55	"Luis Fernando Ortega Rubio"	"H"	"06/24/2016"	"Soacha"	"Cundinamarca"	"Paramilitares"	"Expresidente de la JAC del
+barrio El OAsís"	
+56	"Nolberto Martínez Macana"	"H"	"06/24/2016"	"Soacha"	"Cundinamarca"	"Paramilitares"	"Líder comunal"	
+57	"Wilson Manuel Cabrera
+Mendoza"	"H"	"06/26/2016"	"El Bagre"	"Antioquia"	"ACG"	"Presidente del Comité de
+Mototaxistas, vereda
+La Coquera y miembro de
+marcha patriótica"	
+58	"Naimen Agustín Lara"	"H"	"07/11/2016"	"Chiriguaná"	"Cesar"	"Policía Nacional
+- Esmad"	"Conesice"	
+59	"Sebastián Ulcué"	"H"	"07/10/2016"	"Santander"	"Cauca"	"Desconocidos"	"Comunera Indígena del
+resguardo de Munchique
+de los Tigres"	
+60	"Gersaín Peña Pito"	"H"	"7/13/2016"	"Santander"	"Cauca"	"Desconocidos"	"Comunero del resguardo
+Indígena de Caldono"	
+61	"Evaristo Dagua Troches"	"H"	"07/19/2016"	"Corinto"	"Cauca"	"Paramilitares"	"Líder campesino de la Zona
+de Reservas Campesinas del
+municipio de Corinto -
+Marcha Patriótica"	
+62	"Beatriz Nohemí Morano"	"M"	"07/14/2016"	"Caloto"	"Cauca"	"Desconocidos"	"Comunera indígena reconocido
+por el CRIC"	
+63	"Primitivo Silva Chate"	"H"	"07/18/2016"	"Caloto"	"Cauca"	"Desconocidos"	"Comunera indígena reconocido
+por el CRIC"	
+64	"Nhora Alba Cuicué Viquis"	"M"	"07/18/2016"	"Caloto"	"Cauca"	"Desconocidos"	"Comunera indígena reconocido
+por el CRIC"	
+65	"Luis Alfonso Leiva"	"H"	"08/06/2016"	"Montelíbano"	"Córdoba"	"Paramilitares"	"Líder comunal"	
+66	"Roberto Ballena Suárez"	"H"	"08/15/2016"	"Ciénaga"	"Magdalena"	"Paramilitares"	"Reclamante de tierras del
+predio la Mano de Dios"	
+67	"Oriana Nicoll Martínez"	"M"	"08/18/2016"	"Riohacha"	"La Guajira"	"Paramilitares"	"Líder LGBTI"	
+68	"Nohora Rocío Hernández"	"M"	"08/18/2016"	"Cúcuta"	"Norte de
+Santander"	"Paramilitares"	"Líder comunal"	
+69	"Raúl Pérez"	"H"	"08/19/2016"	"Canalete"	"Córdoba"	"Paramilitares"	"JAC del corregimiento de
+Popayán"	
+70	"Camilo Roberto Taicus"	"H"	"08/26/2016"	"Tumaco"	"Nariño"	"Paramilitares"	"Pueblo indígena Awá,
+resguardo El Hojal la Turbia
+Bisbicus"	
+72	"Joel Meneses Meneses"	"H"	"08/28/2016"	"Almaguer"	"Cauca"	"Paramilitares"	"Líder campesino de CIMA"	
+73	"Nereo Meneses Guzmán"	"H"	"08/28/2016"	"Almaguer"	"Cauca"	"Paramilitares"	"Líder campesino de Procamina"	
+74	"Ariel Sotelo"	"H"	"08/28/2016"	"Almaguer"	"Cauca"	"Los Puercos"	"Líder campesino de Procamina"	
+75	"Luciano Pascal García"	"H"	"08/29/2016"	"Tumaco"	"Nariño"	"Paramilitares"	"Pueblo Indígena Awá, resguardo Hojal La Turbia"	
+76	"Alberto Pascal"	"H"	"08/29/2016"	"Tumaco"	"Nariño"	"Paramilitares"	"Pueblo Indígena Awá, resguardo Hojal La Turbia"	
+77	"Cecilia Culcué de Noscué"	"M"	"09/06/2016"	"Corinto"	"Cauca"	"Paramilitares"	"Astrazonac - Marcha Pa-triótica"	
+78	"María Fabiola Jiménez"	"M"	"09/11/2016"	"Barbosa"	"Antioquia"	"Paramilitares"	"Líder de la comunidad vereda Tablazo Popalito"	
+79	"Néstor Iván Martínez"	"H"	"09/11/2016"	"Chiriguaná"	"Cesar"	"Paramilitares"	"Líder afrocolombiano Conesice"	
+80	"Ovidio Arley Bustamante Chavarría"	"H"	"09/14/2016"	"Puerto Valdivia"	"Antioquia"	"Paramilitares"	"Líder comunal de la Asociación de Campesinos del Bajo Cauca"	
+81	"William García Cartagena"	"H"	"09/15/2016"	"Segovia"	"Antioquia"	"Paramilitares"	"humanos - Comité de DerechosHumanos de Segovia y de la"	
+82	"Ramiro Culma Carepa"	"H"	"09/17/2016"	"Coyaima"	"Tolima"	"Paramilitares"	"de Cabildos Indígenas del"	
+83	"José Augusto Pérez Murcia"	"H"	"09/19/2016"	"El Tambo"	"Cauca"	"Desconocidos"	"Presidente JAC Granada Tamboral"	
+84	"Wilmer Arnubis de La Cruz Isagí"	"H"	"09/20/2016"	"Magüí Payán"	"Nariño"	"Ejército Nacional"	"Campesino, menor de edad"	
+85	"Carlos Arturo Mosquera"	"H"	"09/20/2016"	"Magüí Payán"	"Nariño"	"Ejército Nacional"	"Campesino"	
+86	"Armando Bedoya Fabra"	"H"	"09/20/2016"	"Tierra Alta"	"Córdoba"	"Paramilitares"	"Campesino"	
+87	"Gilberto Hernández Sánchez"	"H"	"09/30/2016"	"San José del Guaviare"	"Guaviare"	"Paramilitares"	"Líder comunal de la JAC La Oriental Guacamayas"	
+88	"Henry José Romero Perea"	"H"	"10/03/2016"	"Arauca"	"Arauca"	"Desconocidos"	"Periodista"	
+89	"Espólita Casinana"	"M"	"10/13/2016"	"Cáceres"	"Antioquia"	"Paramilitares"	"Líder fundadora de Asodesplazca"	
+90	"Lina Sierra Salcedo"	"M"	"10/13/2016"	"Cáceres"	"Antioquia"	"Paramilitares"	"indígena de la comunidad Omagá"	
+91	"Henri Narváez Delgado"	"H"	"10/06/2016"	"Rosas"	"Cauca"	"Desconocidos"	"Comunero resguardo Intiyaco"	
+92	"Yimer Alberto Chávez Rivera"	"H"	"10/18/2016"	"La Sierra"	"Cauca"	"Paramilitares"	"- responsable de la Guardia Campesina y Popular en la"	
+93	"Jhon Fáber Espinal Holguín"	"H"	"10/22/2016"	"Dabeiba"	"Antioquia"	"Paramilitares"	"Líder estudiantil"	
+94	"Jhon Jairo Rodríguez"	"H"	"11/01/2016"	"Caloto"	"Cauca"	"Paramilitares"	"nos - Integrante de la JAC delcorregimiento El Palo -"	
+95	"Sharon Dariana Mármol"	"M"	"11/03/2016"	"Santa Rosa"	"Bolívar"	"Desconocidos"	"Hija de líder de Fedeagromisbol"	
+96	"José Andrés Cabarcas"	"H"	"11/10/2016"	"San Onofre"	"Sucre"	"Paramilitares"	"Defensor de derechos humanos"	
+97	"José Antonio Velasco
+Taquinas"	"H"	"11/11/2016"	"Caloto"	"Cauca"	"Paramilitares"	"Defensor de derechos
+humanos integrante de
+Astrazonacal, Fensuagro-CUT
+y Anzorc, Pupsoc y de
+Marcha Patriótica"	
+98	"Erley Monroy"	"H"	"11/18/2016"	"San Vicente
+del Caguán"	"Caquetá"	"Paramilitares"	"Líder campesino del sector
+agrícola de la ASCAL-G -
+Marcha Patriótica"	
+99	"Didier Losada"	"H"	"11/18/2016"	"Macarena"	"Meta"	"Paramilitares"	"Presidente de la JAC de la
+vereda El Platanillo en La
+Macarena (Meta) - marcha
+patriótica"	
+100	"Rodrigo Cabrera Cabrera"	"H"	"11/19/2016"	"Mercaderes"	"Cauca"	"Paramilitares"	"Defensor de derechos humanos
+e integrante de Marcha
+Patriótica"	
+101	"Froydán Cortez"	"H"	"11/23/2016"	"Buenaventura"	"Valle del Cauca"	"Paramilitares"	"Defensor de derechos humanos
+e integrante de Marcha
+Patriótica"	
+102	"Gustavo Bermúdez"	"H"	"11/23/2016"	"Bogotá"	"Bogotá"	"Desconocidos"	"Líder sindicalista de la em-
+presa Aguas de Bogotá"	
+103	"Marcelina Canacué"	"M"	"11/25/2016"	"Neiva"	"Huila"	"Desconocidos"	"Líder, JAC, vereda Versalles"	
+104	"Vicente Borrego Mejía"	"H"	"12/01/2016"	"Riohacha"	"La Guajira"	"Desconocidos"	"Líder, exconcejal de Riohacha"	
+105	"Luis Carlos Tenorio"	"H"	"12/02/2016"	"Páez"	"Cauca"	"Desconocidos"	"Médico tradicional"	
+106	"Samir López Visbal"	"M"	"12/02/2016"	"Galapa"	"Atlántico"	"Desconocidos"	"Líder, concejal de Galapa por
+la ASI"	
+107	"José Abdón Hoyos Collazos"	"H"	"12/03/2016"	"Sotará"	"Cauca"	"Paramilitares"	"Integrante Mesa de Víctimas
+de Sotará"	
+108	"Nataly Salas Ruiz"	"M"	"12/03/2016"	"Montería"	"Córdoba"	"Desconocidos"	"Estudiante de la Universidad
+de Córdoba"	
+109	"Daniel Cabrera"	"H"	"12/06/2016"	"Bahía Solano"	"Chocó"	"Paramilitares"	"Indígena de Asorewa"	
+110	"Yilmar Alejandro Posu
+Arrechea"	"H"	"12/08/2016"	"Villa Rica"	"Cauca"	"Desconocidos"	"Gestor de paz de Villa Rica,
+Cauca, y líder de consejos
+comunitarios"	
+111	"Eder Mangones"	"H"	"12/10/2016"	"Tisquisio"	"Bolívar"	"Desconocidos"	"Pequeño minero y líder social"	
+112	"Denver Potes Girón"	"H"	"12/11/2016"	"Bahía Solano"	"Chocó"	"Paramilitares"	"Consejo comunitario Delfines"	
+113	"Carlos Jiménez"	"H"	"12/11/2016"	"Bahía Solano"	"Chocó"	"Paramilitares"	"Consejo comunitario Delfines"	
+114	"Guillermo Vendaño"	"H"	"12/12/2016"		"Putumayo"	"Desconocidos"	"Presidente de la JAC de la ve-
+reda Buenos Aires, Sintcafro-
+mayo- Fensuagro Acsomayo,
+Marcha Patriótica Putumayo"	
+115	"Anuar José Álvarez Armero"	"H"	"25/12/2016"	"Argelia"	"Cauca"	"Desconocidos"	"Comité de Cocaleros de la
+vereda Mirolindo e integrante
+de Ascamta"	
+116	"Yaneth Alejandra Calvache
+Viveros"	"M"	"30/12/2016"	"Balboa"	"Cauca"	"Desconocidos"	"Ascatbal, Marcha Patriótica"	
+1	"Karla (Carlos Jesús Báez Torres)"	"Mujer trans"	"01/01/2017"	"Cúcuta"	"Norte de Santander"	"Desconocidos"	"Líder de la comunidad LGTBI en Cúcuta"	
+2	"Olmedo Pito García"	"H"	"06/01/2017"	"Caloto"	"Cauca"	"Desconocidos"	"Nietos de Manuel Quintín"	
+3	"Moisés Mosquera Moreno"	"H"	"07/01/2017"	"Rio Sucio"	"Chocó"	"AGC"	"Líder, comunidad de Salaquí"	
+4	"Aldemar Parra García"	"H"	"07/01/2017"	"El Paso"	"Cesar"	"Desconocidos"	"Presidente de la Asociación Apícola El Hatillo"	
+5	"Juan de la Cruz Mosquera"	"H"	"09/01/2017"	"Rio Sucio"	"Chocó"	"AGC"	"Afrodes"	
+6	"José Yímer Cartagena Úsuga"	"H"	"10/01/2017"	"Carepa"	"Antioquia"	"AGC"	"Vicepresidente de Asodecas, Marcha Patriótica"	
+7	"Edmiro León Alzate Londoño"	"H"	"12/01/2017"	"Sonsón"	"Antioquia"	"Desconocidos"	"Movete"	
+8	"Emilsen Manyoma Mos-quera"	"M"	"14/01/2017"	"Buenaventura"	"Valle del Cauca"	"Urabeños"	"Conpaz"	
+9	"Joel José Rodallega"	"H"	"14/01/2017"	"Buenaventura"	"Valle del Cauca"	"Urabeños"	"Conpaz"	
+10	"Jairo Andrés Mosquera"	"H"	"15/01/2017"	"Suárez"	"Cauca"	"Desconocidos"	"Indígena"	
+11	"Ángel Yunda"	"H"	"15/01/2017"	"Suárez"	"Cauca"	"Desconocidos"	"Indígena"	
+12	"Hernán Enrique Agamez Flórez"	"H"	"19/01/2017"	"Puerto Libertador"	"Córdoba"	"AGC"	"Comité Cocalero, Ascsucor, Marcha Patriótica"	
+13	"Heberto Julio Quiñonez Miranda"	"H"	"19/01/2017"	"Puerto Libertador"	"Córdoba"	"AGC"	"Vocal de la JAC de la vereda el Salao del corregimiento la Rica Puerto Libertador"	
+14	"Marcelino Pastrana Fer- nández"	"H"	"19/01/2017"	"Puerto Libertador"	"Córdoba"	"AGC"	"Campesino"	
+15	"Fredy Cogollo Mora"	"H"	"19/01/2017"	"Puerto Libertador"	"Córdoba"	"AGC"	"Campesino"	
+16	"Gustavo Alberto Suárez Osorio"	"H"	"22/01/2017"	"Jardín"	"Antioquia"	"Desconocidos"	"Líder conservacionista, admi-nistrador de la reserva Mesenia, de la Fundación Colibrí"	
+17	"Carlos Yama"	"H"	"24/01/2017"	"San Miguel"	"Putumayo"	"Desconocidos"	"Líder campesino"	
+18	"John Freddy Concha Valbuena"	"H"	"24/01/2017"	"Cali"	"Valle del Cauca"	"Desconocidos"	"de excombatientes de las Farc-EP en el caso de los"	
+19	"Hernando Murillo Armijo"	"H"	"25/01/2017"	"Santa Cecilia"	"Risaralda"	"Desconocidos"	"la vereda Ágüita durante el período 2012-2016, líder"	
+20	"Yoryanis Isabel Bernal Varela"	"M"	"26/01/2017"	"Valledupar"	"Cesar"	"Paramilitares"	"Defensora de los derechos de la etnia Wiwa."	
+21	"Leonidas González Pérez"	"H"	"27/01/2017"	"Bello"	"Antioquia"	"Desconocidos"	"afrodescendiente de"	
+22	"Gildardo Antonio Valdés"	"H"	"28/01/2017"	"Anorí"	"Antioquia"	"ELN"	"Tesorero JAC de la vereda Concha Abajo"	
+23	"Porfilio Jaramillo Botagallo"	"H"	"29/01/2017"	"Turbo"	"Antioquia"	"Paramilitares"	"Reclamante de tierras vereda
+Buenos Aires, corregimiento
+Nuevo Oriente. Consejo
+Comunitario de la vereda
+Guacamayas"	
+24	"Miguel Ángel Hoyos"	"H"	"02/02/2017"	"Cartago"	"Valle del Cauca"	"Desconocidos"	"Líder del Comité de Cafetaleros
+del Norte del Valle, Federa-
+ción Nacional de Cafeteros"	
+25	"Edilberto Cantillo Mesa"	"H"	"04/02/2017"	"Copey"	"Cesar"	"Desconocidos"	"Presidente de la JAC de
+Caracolicito, El Copey, Cesar
+y reclamante de restitución
+de tierras"	
+26	"Juan Sebastián Mayorga
+Yatacué"	"H"	"04/02/2017"	"Santander
+de Quilichao"	"Cauca"	"Desconocidos"	"Comunero del resguardo La
+Concepción, Buenos Aires"	
+27	"José Arbey Mensa"	"H"	"04/02/2017"	"Santander
+de Quilichao"	"Cauca"	"Desconocidos"	"Comunero del resguardo La
+Concepción, Buenos Aires"	
+28	"Leonardo Cano"	"H"	"06/02/2017"	"Suárez"	"Cauca"	"Desconocidos"	"Integrante del resguardo de
+Cerro Tijeras. Esposo de la
+actual tesorera del Cabildo de
+Cerro Tijeras"	
+29	"Luz Herminia Olarte"	"M"	"07/02/2017"	"Yarumal"	"Antioquia"	"Desconocidos"	"Integrante JAC Llano Ochali
+Yarumal"	
+30	"Erika Yisel Arias Galíndez"	"M"	"11/02/2017"	"El Tambo"	"Cauca"	"Desconocidos"	"Promotora de Salud de la
+vereda La Paloma"	
+31	"Danna Méndez (Deiner
+Alexander Méndez Berrío)"	"Mujer
+trans"	"12/02/2017"	"Chaparral"	"Tolima"	"Desconocidos"	"Asociación Chaparral LGTBI
+Diversa"	
+32	"James Alegría"	"H"	"13/02/2017"	"El Tambo"	"Cauca"	"Desconocidos"	"Líder comunitario El Tambo"	
+33	"Eberto Julio Gómez Mora"	"H"	"16/02/2017"	"Cáceres"	"Antioquia"	"Paramilitares"	"JAC de la vereda San José
+del Mane, Cáceres"	
+34	"Fáiver Cerón Gómez"	"H"	"18/02/2017"	"Mercaderes"	"Cauca"	"Desconocidos"	"Presidente JAC, corregimiento
+Esmeraldas; Asocomunal.
+Coordinadora Cívica por
+Mercaderes"	
+35	"Wilfredy González Noreña"	"H"	"20/02/2017"	"Bogotá"	"Bogotá"	"Desconocidos"	"Mesa de trabajo de derechos
+humanos"	
+36	"César Augusto Parra"	"H"	"22/02/2017"	"La Dorada"	"Caldas"	"Desconocidos"	"Colectivos de mototaxistas en
+La Dorada"	
+37	"Éder Cuetia Conda"	"H"	"26/02/2017"	"Corinto"	"Cauca"	"Desconocidos"	"Comunero del resguardo Indí-
+gena de López Adentro, inte-
+grante de la JAC de la vereda
+Siberia y Marcha Patriótica"	
+38	"Ruth Alicia López Guisao"	"M"	"02/03/2017"	"Medellín"	"Antioquia"	"Paramilitares"	"Acompañaba ejecución del
+Proyecto Cumbre Agraria y
+gobierno nacional con
+Asokinchas - CNA en el
+departamento del Chocó"	
+39	"Fabián Antonio Rivera
+Arroyabe"	"H"	"02/03/2017"	"Bello"	"Antioquia"	"Desconocidos"	"Presidente JAC Rosalpi"	
+40	"José Antonio Anzola Tejedor"	"H"	"05/03/2017"	"Mesetas"	"Meta"	"Desconocidos"	"PCC, Sintragrim, Fensuagro
+-CUT, Marcha Patriótica"	
+41	"Luz Ángela Anzola Tegedor"	"M"	"05/03/2017"	"Mesetas"	"Meta"	"Desconocidos"	"Partido Comunista, Sintra-
+grim, Fensuagro-CUT,
+Marcha Patriótica"	
+42	"Jhonatan Ferney Rodríguez Guanga"		"H"	"09/03/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"y hasta el mes de diciembre del 2016 perteneció a la"
+43	"Irene Pérez Ruiz"		"M"	"15/03/2017"	"Sucre"	"Santander"	"Desconocidos"	"Trabajadora campesina del Carare"
+44	"Edenis Barrera Benavides"		"M"	"19/03/2017"	"Aguazul"	"Casanare"	"Desconocidos"	"Líder social y voluntaria de lDefensa Civil en Aguazul"
+45	"Javier Oteca Pilcue"		"H"	"22/03/2017"	"Corinto"	"Cauca"	"Seguridad Privada"	"Indígena comunero de la vereda Santa Helena"
+46	"Albenio Isaías Rosero Álvarez"		"H"	"27/03/2017"	"Valle del Gua- muez"	"Putumayo"	"Desconocidos"	"JAC, vereda El Afilador, Valle del Guamuez, Putumay"
+47	"Jairo Arturo Chilito Muñoz"		"H"	"31/03/2017"	"Sucre"	"Cauca"	"Desconocidos"	"El Paraíso, zona rural de"
+48	"Eliver Buitrago Rodríguez"		"H"	"02/04/2017"	"Mesetas"	"Meta"	"Desconocidos"	"vereda Buenos Aires, zona"
+49	"José Fina Cuetia Ramos"		"M"	"04/04/2017"	"Jambaló"	"Cauca"	"Desconocidos"	"Comunera indígena"
+50	"Jeiler Chalá"		"H"	"04/04/2017"		"Chocó"	"Desconocidos"	"Consejo comunitario de Domingodó"
+51	"Camilo Ernesto Pinzón Galeano"		"H"	"05/04/2017"	"San Martin"	"Meta"	"Desconocidos"	"Vicepresidente JAC vereda Fundo Nuevo"
+52	"Luis Genaro Ochoa Sánchez"		"H"	"06/04/2017"	"Pitalito"	"Huila"	"Desconocidos"	"Abogado defensor de derechohumanos"
+53	"Fáiber Pobre"		"H"	"09/04/2017"	"Puerto Guzmán"	"Putumayo"	"Desconocidos"	"barrio Villa Nueva de Yurilla"
+54	"Nolberto Lozada Ramón"		"H"	"10/04/2017"	"Florencia"	"Caquetá"	"Desconocidos"	"la JAC de la vereda Buenos"
+55	"Pedro Nel Pai Pascal"		"H"	"16/04/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Perteneciente al resguardo Gran Rosario"
+56	"Jhonny Marcelo Cuajiboy Pascal"		"H"	"16/04/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Pertenecía al resguardo de Piedra Sellada"
+57	"Ever Goyes"		"H"	"16/04/2017"	"Ricaurte"	"Nariño"	"Desconocidos"	"Resguardo de Pulgande Tron-quería Palicito, Barbacoas"
+58	"Rubiela Sánchez Vanegas"		"M"	"18/04/2017"	"San Vicente Ferrer"	"Antioquia"	"Desconocidos"	"para ser concejal del municipioen 2015, luchadora por los"
+59	"Gerson Acosta Salazar"		"H"	"19/04/2017"	"Timbío"	"Cauca"	"Desconocidos"	"Cxhab Wala, ACIN. Autori-dad indígena Newexs, defenso"
+60	"Severino Grueso Caicedo"		"H"	"21/04/2017"	"Cerrito"	"Valle del Cauca"	"Desconocidos"	"Presidente de la JAC del barrio Prado-Valle"
+61	"Mauro Tálaga Campo"		"H"	"23/04/2017"	"El Tambo"	"Cauca"	"Desconocidos"	"vereda Bellavista, corregi-"
+62	"Diego Fernando Rodríguez
+Montenegro"	"H"	"26/04/2017"	"Mercaderes"	"Cauca"	"Desconocidos"	"Consejo Comunitario Gana
+Plata y Caney. Integrante del
+palenque La Torre"	
+63	"José Manuel Pushaina"	"H"	"27/04/2017"	"Fonseca"	"Guajira"	"Desconocidos"	"Líder wayuu"	
+64	"Argemiro Tovar"	"H"	"03/05/2017"	"El Bagre"	"Antioquia"	"Desconocidos"	"Comunidad de la vereda La
+Bonga, El Bagre"	
+65	"Nelson Fabra Díaz"	"H"	"03/05/2017"	"Los Córdobas"	"Córdoba"	"Desconocidos"	"Líder comunal, Partido Cam-
+bio Radical, candidato a la
+Alcaldía de Arboletes"	
+66	"Jorge Arbey Chantré Achipis"	"H"	"04/05/2017"	"Jamundí"	"Valle del Cauca"	"Desconocidos"	"Secretario del cabildo ances-
+tral Pueblo Nuevo y presiden-
+te del MAIS en Jamundí."	
+67	"Daniel Felipe Castro Basto"	"H"	"04/05/2017"	"Corinto"	"Cauca"	"Policía -
+Ejército
+Nacional"	"Cabildo de Páez, territorio
+ancestral de Corinto; Proceso
+de Liberación de la Madre
+Tierra y la ACIN"	
+68	"Jáider Jiménez Cardona"	"H"	"04/05/2017"	"Santiago de
+Cali"	"Valle del Cauca"	"Desconocidos"	"Conciliador en la JAC del
+barrio Decepaz"	
+69	"Mario Andrés Calle Correa"	"H"	"13/05/2017"	"Guacarí"	"Valle del Cauca"	"Desconocidos"	"Presidente de Astracava,
+subdirectiva Guacarí, Coor-
+dinación Campesina del Valle
+del Cauca-CCVC, PUPSOC y
+Marcha Patriótica Valle del
+Cauca"	
+70	"Jhoan Felipe Yatacué
+Vargas"	"H"	"13/05/2017"	"Corinto"	"Cauca"	"Desconocidos"	"Comunero resguardo Huellas
+municipio de Caloto"	
+71	"José Reyes Guerrero Gaitán"	"H"	"16/05/2017"	"Chiriguaná"	"Cesar"	"Desconocidos"	"Desplazado por paramilitares
+y luego, suplente de la Mesa
+de Participación de Víctimas
+de Chiriguaná"	
+72	"Álvaro Arturo Tenorio
+Cabezas"	"H"	"18/05/2017"	"Magüí- Payán"	"Nariño"	"Desconocidos"	"Moepp, Coccam y Marcha
+Patriótica"	
+73	"Donaldo Antonio Rodríguez
+Díaz"	"H"	"25/05/2017"	"Moñitos"	"Córdoba"	"Desconocidos"	"Líder político de Moñitos"	
+74	"Segundo Víctor Castillo"	"H"	"25/05/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Líder y promotor de la paz en
+Tumaco"	
+75	"Carlos Augusto Panesso"	"H"	"26/05/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Líder, Fundación Colombiana
+Arco Iris LGBTI, trabajo
+mancomunado con Caribe
+Afirmativo. Trabajo con
+jóvenes LGBTI de las zonas
+marginales del municipio"	
+76	"Héctor Javier Riascos"	"H"	"29/05/2017"	"Buenaventura"	"Valle del Cauca"	"AGC"	"Mototaxista"	
+77	"Duberney Gómez"	"H"	"31/05/2017"	"Curvaradó"	"Chocó"	"Desconocidos"	"Comunidad La Nevera,
+Consejo Comunitario de
+Cetino, territorio colectivo de
+Curvaradó"	
+78	"Diego Andrés García"	"H"	"01/06/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"perteneciente a la comunidad
+de La Planada, resguardo
+Piguambí Palangala, Tumaco"	
+80	"Iván Martínez"	"H"	"04/06/2017"	"Fonseca"	"Guajira"	"Desconocidos"	"Junta Directiva de Unsitraseg"	
+81	"Wilmar Felipe Barona"	"H"	"04/06/2017"	"Santiago de Cali"	"Valle del Cauca"	"Policía Nacional"	"Dirigente, Sintracarcol"	
+82	"Washington Cedeño Otero"	"H"	"06/06/2017"	"Puerto Escondido"	"Córdoba"	"Desconocidos"	"Profesor. Ademacor"	
+83	"Bernardo Cuero Bravo"	"H"	"07/06/2017"	"Malambo"	"Atlántico"	"Desconocidos"	"delegado de la JAC y miem-bro la Mesa de Victimas del"	
+84	"Johana Alarcón"	"M"	"07/06/2017"	"Cali"	"Valle del Cauca"	"Desconocidos"	"Profesora, Fecode"	
+85	"Juan Artunduaga"	"H"	"07/06/2017"	"Paletará"	"Cauca"	"Desconocidos"	"Profesor, Fecode"	
+86	"Ricardo Córdoba Martínez"	"H"	"07/06/2017"	"Miraflores"	"Guaviare"	"Desconocidos"	"Presidente de JAC, vereda Los Medio"	
+87	"José María Lemus Téllez"	"H"	"13/06/2017"	"Tibú"	"Norte de San-tander"	"Desconocidos"	"Presidente de JAC, Las Palmas"	
+88	"Katerine Escalante Castillo"	"M"	"14/06/2017"	"Aguachica"	"Cesar"	"Desconocidos"	"Presidenta, Defensa Civil de Aguachica"	
+89	"Narda del Carmen Barchilón"	"M"	"14/06/2017"	"Arauca"	"Arauca"	"Desconocidos"	"Villaluz, trabajo en temas de salud y derechos de las"	
+90	"Mauricio Fernando Vélez López"	"H"	"21/06/2017"	"Buenos Aires"	"Cauca"	"Desconocidos"	"Sintraunal, Valle del Cauca y Marcha Patriótica"	
+91	"Eugenio Rentería Martínez"	"H"	"30/06/2017"	"Quibdó"	"Chocó"	"Desconocidos"	"Líder, Comité Cívico por la Salvación del Chocó"	
+92	"Jhon Jaime Londoño Agudelo"	"H"	"30/06/2017"	"Salgar"	"Antioquia"	"Desconocidos"	"Docente Adida"	
+93	"Alberto Román Acosta"	"H"	"30/06/2017"	"Cerrito"	"Valle del Cauca"	"Desconocidos"	"Presidente Sintrainagro"	
+94	"Héctor William Mina"	"H"	"14/07/2017"	"Guachené"	"Cauca"	"Desconocidos"	"equipo coordinador del"	
+95	"Fabián Alberto Álvarez"	"H"	"14/07/2017"	"Medellín"	"Antioquia"	"Desconocidos"	"La Loma corregimiento San"	
+96	"Ezequiel Rangel"	"H"	"16/07/2017"	"El Carmen"	"Norte de San- tander"	"Desconocidos"	"Líder del comité veredal, Ascamcat y Marcha Patriótica"	
+97	"Wilmer Hernández Caicedo"	"H"	"27/07/2017"	"López de Micay"	"Cauca"	"Desconocidos"	"Líder afrodescendiente, Consejo Comunitario Sanjoc"	
+98	"Manuel Jaime Arango"	"H"	"27/07/2017"	"Medellín"	"Antioquia"	"Desconocidos"	"Rector, Institución Educativa Rafael Uribe Uribe"	
+99	"Luis Edilson Arango Gallego"	"H"	"02/08/2017"	"Puerto Nare"	"Antioquia"	"Desconocidos"	"medioambiental. Se enfrentó a varias empresas por la"	
+100	"Jesús María Morales Morales"	"H"	"04/08/2017"	"Belalcázar"	"Caldas"	"Desconocidos"	"Líder indígena, exgobernador del resguardo indígena Totumal"	
+101	"Nidio Emigdio Dávila"	"H"	"06/08/2017"	"El Rosario"	"Nariño"	"AGC"	"Astracán- subdirectiva El
+Rosario, Fensuagro-CUT,
+Coccam, Pupsoc y Marcha
+Patriótica"	
+102	"Idalia Castillo Narváez"	"H"	"08/08/2017"	"Rosas"	"Cauca"	"Desconocidos"	"integrante de la Mesa Muni-
+cipal de Víctimas en el muni-
+cipio de Rosas, sur de Cauca"	
+103	"Fernando Rivas Asprilla"	"H"	"09/08/2017"	"Piamonte"	"Cauca"	"Desconocidos"	"Ex presidente JAC, Marcha
+Patriótica"	
+104	"Alciviades de Jesús Largo
+Hernández"	"H"	"12/08/2017"	"Supía"	"Caldas"	"Desconocidos"	"Guardía Indígena, resguardo
+Cañamomo Lomaprieta, de
+Supia"	
+105	"Juan José Argumero Campo"	"H"	"15/08/2017"	"Popayán"	"Cauca"	"Desconocidos"	"Docente, institución educa-
+tiva indígena del resguardo
+de Quintana, perteneciente a
+Asoínca"	
+106	"Brandon Stid Ochoa
+Estrada"	"H"	"16/08/2017"	"Segovia"	"Antioquia"	"Policía"	"Minero, participaba en el
+paro minero de 2017"	
+107	"Manuel Ramírez Mosquera"	"H"	"17/08/2017"	"Rio Sucio"	"Chocó"	"Desconocidos"	"Reclamante de tierras, expre-
+sidente del Consejo Comunitario
+del Truandó"	
+108	"Alexis Gregorio Acevedo
+Galvis"	"H"	"18/08/2017"	"Segovia"	"Antioquia"	"Policía"	"Minero, participaba en el
+paro minero de 2017"	
+109	"Jesús Alberto Sánchez
+Correa"	"H"	"19/08/2017"	"Carepa"	"Antioquia"	"Desconocidos"	"Reclamante de tierras, Consejo
+Comunitario de los ríos La
+Larga y Tumaradó"	
+110	"Roberto Ortega Mccausland"	"H"	"28/08/2017"	"Barranquilla"	"Atlántico"	"Desconocidos"	"Líder comunitario, barrio
+Betania"	
+111	"Jhon Jairo Melo Ortega"	"H"	"08/09/2017"	"Morales"	"Cauca"	"Ejército"	"Campesino cocalero"	
+113	"Leonardo Ballesteros
+Rodríguez"	"H"	"09/09/2017"	"Medellín"	"Antioquia"	"Desconocidos"	"Abogado litigante, represen-
+taba a víctimas del conflicto
+armado"	
+114	"Javier Sevilla Álvarez"	"H"	"17/09/2017"	"Tibú"	"Norte de
+Santander"	"Desconocidos"	"Coordinador del Comité de
+obras de la JAC de la vereda
+M 24"	
+115	"Nelson Eduardo Velandia
+Ortiz"	"H"	"17/09/2017"	"Fontibón"	"Bogotá"	"Desconocidos"	"Rector, Colegio Distrital
+Atahualpa"	
+116	"José Adalberto Torijano"	"H"	"21/09/2017"	"Corinto"	"Cauca"	"Ejército"	"Coordinador de la seguridad
+campesina del corregimiento
+Río Negro, vereda Pueblo
+Nuevo; Astrazonac-Fensua-
+gro-CUT; Anzorc, Pupsoc y
+Marcha Patriótica"	
+117	"Maritza Yuliana García
+Vinasco"	"M"	"23/09/2017"	"Dosquebradas"	"Risaralda"	"Desconocidos"	"Líder, acompañaba a niñez
+vulnerable en la Fundación
+Casa de los Sueños, barrio
+Camilo Mejía en Frailes.
+Líder LGTBI"	
+118	"Juana Bautista Almazo
+Uriana (Epiayú)"	"M"	"26/09/2017"	"Uribia"	"La Guajira"	"Desconocidos"	"Líder etnia Wayuu y docente"	
+119	"Carlos Mario Hincapié"	"H"	"27/09/2017"	"San Rafael"	"Antioquia"	"Desconocidos"	"Centro Democrático, investi-
+gador de corrupción y víncu-
+los del alcalde de San Rafael
+con el paramilitarismo"	
+121	"Luis Villadiego Puentes"	"H"	"02/10/2017"	"Sampués"	"Sucre"	"Desconocidos"	"Líder Indígena"	
+122	"Jimmy Humberto Medina Trujillo"	"H"	"03/10/2017"	"San José del Guaviare"	"Guaviare"	"Desconocidos"	"Vicepresidente de la JAC vereda Puerto Nuevo"	
+123	"Aldemar Gil Guachetá"	"H"	"05/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+124	"Janire Cortes Mairingo"	"H"	"05/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+125	"Nelson Chacuendó Calambas"	"H"	"05/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+126	"Diego Escobar Dorado"	"H"	"05/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+127	"Alfonso Taicus Taicus"	"H"	"05/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+128	"Jaime Guanga Pao"	"H"	"05/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+129	"Jorge Luis García del Rio"	"H"	"05/10/2017"	"Cartagena"	"Bolívar"	"Desconocidos"	"la JAC del Sector 3 de junio,"	
+130	"Ezquivel Manyoma"	"H"	"07/10/2017"	"Medio Baudó"	"Chocó"	"Paramilitares"	"Embera Dóbida del resguardo"	
+131	"Oscar Ferney Tenorio Sunscue"	"H"	"07/10/2017"	"Páez"	"Cauca"	"Desconocidos"	"Gobernador Suplente Res-guardo indígena de Chinas"	
+132	"María Efigenia Vásquez Astudillo"	"M"	"08/10/2017"	"Coconuco"	"Cauca"	"Policía"	"Comunicadora indígena, Pueblo Kokonuko"	
+133	"Ofelia Espinosa de López"	"M"	"08/10/2017"	"Santuario"	"Risaralda"	"Desconocidos"	"Guaira, municipio de Santuario y trabajaba con mujeres vícti-"	
+134	"Miguel Ángel Cardona"	"H"	"08/10/2017"	"Santuario"	"Risaralda"	"Desconocidos"	"Secretario de JAC vereda La Guaira"	
+135	"José Merlín Murillo"	"H"	"11/10/2017"	"Cacarica"	"Chocó"	"AGC"	"Zona Humanitaria de Nueva Vida"	
+136	"José Jair Cortés"	"H"	"17/10/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"sejo Comunitario Alto Mira y"	
+137	"Alirio Taicus Sabala"	"H"	"18/10/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Indígena Awá"	
+138	"Geovanny Sabala Quistial"	"H"	"18/10/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Indígena Awá"	
+139	"Jorge Eliecer Carvajal"	"H"	"18/10/2017"	"Puerto Guzmán"	"Putumayo"	"Desconocidos"	"María. Participante en las decisiones de su comunidad"	
+140	"Liliana Patricia Cataño Montoya"	"M"	"18/10/2017"	"Medellín"	"Antioquia"	"Desconocidos"	"Líder comunitaria Comuna 13"	
+141	"Liliana Astrid Ramírez Martínez"	"M"	"19/10/2017"	"Coyaima"	"Tolima"	"Desconocidos"	"Docente"	
+142	"Iván Darío Muñoz Echavarría"	"H"	"20/10/2017"	"Tumaco"	"Nariño"	"Policía"	"Campesino cultivador de coca"	
+143	"Miguel Emiro Pérez"	"H"	"22/10/2017"	"Tarazá"	"Antioquia"	"Desconocidos"	"na del Bajo Cauca, Coccam"	
+144	"Aulio Isarama Forastero"	"H"	"24/10/2017"	"Alto Baudó"	"Chocó"	"ELN"	"Gobernador, resguardo indí-
+gena Catrú, Dubaza y Ancosó,
+municipio de Alto Baudó;
+Pueblo Embera Dóbida"	
+145	"Diana Marcela Calvo Rojas"	"M"	"25/10/2017"	"Mesetas"	"Meta"	"Desconocidos"	"Campesina habitante del
+ETCR Maríana Páez"	
+146	"Diego Ferney Pilcue"	"H"	"25/10/2017"	"Mesetas"	"Meta"	"Desconocidos"	"Campesino habitante del
+ETCR Maríana Páez"	
+147	"Robinson Calvo Rojas"	"H"	"25/10/2017"	"Mesetas"	"Meta"	"Desconocidos"	"Campesino habitante del
+ETCR Maríana Páez"	
+148	"Julio Cesar Sepúlveda
+Martínez"	"H"	"27/10/2017"	"Cali"	"Valle del Cauca"	"Desconocidos"	"Sindicalista de Cementos
+Argos."	
+149	"Román Alcides García
+Zapata"	"H"	"27/10/2017"	"Briceño"	"Antioquia"	"Desconocidos"	"Reconocido líder, comité de
+barqueros y mineros del Alto
+de Chiri; Marcha Patriótica;
+parte del proceso de sustitu-
+ción gradual y voluntaria de
+cultivos de uso ilícito"	
+150	"Alejandro Tirado"	"H"	"29/10/2017"	"Tame"	"Arauca"	"Ejército"	"Campesino"	
+151	"Elvia Azucena Vargas"	"M"	"02/11/2017"	"Rio Sucio"	"Caldas"	"Desconocidos"	"Comunidad de Portachuelo,
+resguardo Indígena Cañamo-
+mo Lomaprieta"	
+152	"Ferléin Pérez Monroy"	"H"	"06/11/2017"	"Cartagena del
+Chaira"	"Caquetá"	"Desconocidos"	"Presidente, JAC vereda Los
+Laureles, coordinador de la
+Mesa de Victimas de Paujil"	
+153	"Alber Martínez Olarte"	"H"	"08/11/2017"	"Cajibío"	"Cauca"	"Desconocidos"	"ATCC, Coccam, Fensuagro,
+CUT, Pupsoc y MAPA"	
+154	"Jairo Silva Trujillo"	"H"	"10/11/2017"	"Villavicencio"	"Meta"	"Desconocidos"	"Dirigente sindical, PCC"	
+155	"Pablo Emilio Medina"	"H"	"10/11/2017"	"Puerto Guzmán"	"Putumayo"	"Desconocidos"	"Presidente, JAC de Bombonal"	
+156	"Luz Jeny Montaño"	"M"	"12/11/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Líder comunal"	
+157	"Angelina Miranda"	"M"	"15/11/2017"	"Caucasia"	"Antioquia"	"Desconocidos"	"Activista de derechos humanos
+de la población trans"	
+158	"José Luis López Vela"	"H"	"15/11/2017"	"Jamundí"	"Valle del Cauca"	"Desconocidos"	"Líder sindical del Inpec"	
+159	"Yimi Cerón Jimenez"	"H"	"16/11/2017"	"Isnos"	"Huila"	"Desconocidos"	"Hijo de líder social y defensor
+de derechos humanos"	
+160	"Edgar Serrano Claro"	"H"	"19/11/2017"	"Ocaña"	"Norte de San-
+tander"	"Desconocidos"	"Líder sindical del Inpec"	
+161	"Mario Jacanamijoy
+Matumbajoy"	"H"	"21/11/2017"	"Belén de Los
+Andaquíes"	"Caquetá"	"Desconocidos"	"Coordinador de asuntos
+técnicos, Comité Territorial,
+consejero departamental de
+salud en la Mesa de Concer-
+tación de Pueblos Indígenas
+del Caquetá"	
+162	"Dúbier Prieto Coro"	"H"	"21/11/2017"	"Belén de Los
+Andaquíes"	"Caquetá"	"Desconocidos"	"Campesino"	
+163	"Juan Camilo Sevillano"	"H"	"21/11/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Educador en la escuela de
+formación política de la diná-
+mica juvenil del PCN"	
+165	"Edison Marcial Ortiz Bolaños"		"H"	"27/11/2017"	"Magüí Payán"	"Nariño"	"ELN"	"Representante legal del Consejo Comunitario Manos Amigas"
+166	"NN"		"H"	"27/11/2017"	"Magüí Payán"	"Nariño"	"ELN"	"Consejo Comunitario Manos Amigas"
+167	"NN"		"H"	"27/11/2017"	"Magüí Payán"	"Nariño"	"ELN"	"Consejo Comunitario Manos Amigas"
+168	"NN"		"H"	"27/11/2017"	"Magüí Payán"	"Nariño"	"ELN"	"Consejo Comunitario Manos Amigas"
+169	"NN"		"H"	"27/11/2017"	"Magüí Payán"	"Nariño"	"ELN"	"Consejo Comunitario Manos Amigas"
+170	"Carlos Arturo Mena Rentería"		"H"	"02/12/2017"	"Mapiripán"	"Meta"	"Desconocidos"	"Líder comunitario"
+171	"Luis Alfonso Giraldo"		"H"	"04/12/2017"	"Puerto Asís"	"Putumayo"	"Desconocidos"	"vereda del corregimiento La Carmelita, sector rural de"
+172	"Julio Cesar Cuenca Romero"		"H"	"06/12/2017"	"Pereira"	"Risaralda"	"Desconocidos"	"Fiscal, JAC de Salamanca y Asomavic"
+173	"Luis Hernando Bedoya Úsuga"		"H"	"08/12/2017"	"Riosucio"	"Chocó"	"AGC"	"sejo Comunitario, Conpaz y habitante de una zona de biodiversidad atacada por la"
+174	"Diego Suárez"		"H"	"09/12/2017"	"Puerto Leguízamo"	"Putumayo"	"Desconocidos"	"Vicepresidente, JAC de la ve-reda La Delicia, del núcleo de Sencella, Puerto Leguízamo"
+175	"Oscar Pai Pascal"		"H"	"10/12/2017"	"Tumaco"	"Nariño"	"Desconocidos"	"Imbapí–Sabaleta, resguardo indígena Awá de Hojal la"
+176	"Myriam Zulay Hernández Silva"		"M"	"11/12/2017"	"Cúcuta"	"Norte de Santander"	"Desconocidos"	"Presidenta, JAC, vereda El Descanso, corregimiento Ricaurte"
+177	"María Elsy Angulo García"		"M"	"14/12/2017"	"Barbacoas"	"Nariño"	"Desconocidos"	"po, vivía en la vereda Cruces,"
+178	"José Rafael de La Hoz Villa"		"H"	"15/12/2017"	"Pivijay"	"Magdalena"	"Desconocidos"	"Mesa de Participación de Víctimas, Pivijay"
+179	"Alexander José Padilla Cruz"		"H"	"15/12/2017"	"Tierralta"	"Córdoba"	"Ejército"	"colectivo de sustitución en el"
+180	"Alfonso Pérez Mellizo"		"H"	"18/12/2017"	"Patía"	"Cauca"	"Desconocidos"	"de Azúcar; Agropatía, Pupsoc"
+181	"Pablo Oviedo"		"H"	"18/12/2017"	"Puerto Asís"	"Putumayo"	"Desconocidos"	"Líder comunal, vereda Puerto Colombia"
+182	"Bernardo Musicué Secué"		"H"	"20/12/2017"	"Caloto"	"Cauca"	"Desconocidos"	"Los Chorros, resguardo indí-"
+	"Gonzalo Antonio Martínez
+Guisao"	"H"	"20/12/2017"	"Carepa"	"Antioquia"	"AGC"	"Presidente, JAC, vereda
+Pechinde, corregimiento
+Zaiza, Tierralta"	
+184	"Esnéider Ruiz Barreto"	"H"	"21/12/2017"	"Puerto Guzmán"	"Putumayo"	"Desconocidos"	"Atcam-Fensuagro y Marcha
+Patriótica"	
+185	"Guillermo Javier Artuz
+Tordecilla"	"H"	"22/12/2017"	"Tierra Alta"	"Córdoba"	"Desconocidos"	"Presidente, Cooperativa de
+Productores de Cacao y miel
+de la vereda La Ossa"	
+186	"José Neri Hurtado"	"H"	"22/12/2017"	"Quibdó"	"Chocó"	"Desconocidos"	"Conciliador, JAC, vereda La
+Corcurba, Quibdó"	
+187	"Fredy Chavarro"	"H"	"24/12/2017"	"Puerto Rico"	"Caquetá"	"Desconocidos"	"Personero municipal de Puerto
+Rico"	
+188	"Arley Velasco"	"H"	"26/12/2017"	"Puerto Asís"	"Putumayo"	"Desconocidos"	"Responsable de derechos
+humanos de Sincatfromayo,
+participante en la escuela
+fundadora de la Red de dere-
+chos humanos del Putumayo,
+La Baja Bota Caucana y
+Cofania Jardines de Sucum-
+bíos, Ipiales, Nariño. Sincat-
+fromayo-Fensuagro y Marcha
+Patriótica"	
+189	"Óswar Viveros Balanta"	"H"	"28/12/2017"	"Buenos Aires"	"Cauca"	"Desconocidos"	"Consejo Comunitario Cuenca
+Río Timba Mary López; Aso-
+ciación Renacer Siglo XXI y
+Marcha Patriótica"	
+190	"Nilson Zúñiga Caracas"	"H"	"28/12/2017"	"Buenos Aires"	"Cauca"	"Desconocidos"	"Consejo Comunitario Cuenca
+Río Timba Mary López: Aso-
+ciación Renacer Siglo XXI y
+Marcha Patriótica"	
+192	"Mario Dúmar Rojas Acosta"	"H"	"29/12/2017"	"Cumaral"	"Meta"	"Desconocidos"	"Presidente, JAC, Cumaral"	
+1	"Héctor Emerson Hernández"	"H"	"04/01/2018"	"Bogotá D. C."	"Bogotá D. C."	"Desconocidos"	"Poblador urbano y artista popular"	
+							"Líder indígena, autoridad y"	
+2	"Alirio Sánchez"	"H"	"06/01/2018"	"Totoró"	"Cauca"	"Desconocidos"	"médico tradicional del"	
+							"resguardo Totoró"	
+3	"Diana Luz Romero Mogales"	"M"	"09/01/2018"	"Puerto Leguí- zamo"	"Putumayo"	"Desconocidos"	"Presidenta, JAC vereda San Joaquín, corregimiento de Piñuña Negro"	
+							"Comunera indígena. Guardia"	
+4	"Diana Luz Solano"	"M"	"17/01/2018"	"Zaragoza"	"Antioquia"	"Desconocidos"	"indígena e hija de Rufino Solano, gobernador Zenú de"	
+							"la comunidad La Esperanza"	
+5	"Víctor Manuel Morato"	"H"	"17/01/2018"	"Yondó"	"Antioquia"	"Desconocidos"	"Presidente, JAC, vereda La Rompida, Yondó"	
+6	"Jorge Yimmi Celis"	"H"	"17/01/2018"	"Cúcuta"	"Norte de Santander"	"Desconocidos"	"Junta de Colinas del Tunal Comuna Seis, Cúcuta"	
+							"Presidente, JAC, vereda"	
+7	"Plinio Pulgarín"	"H"	"18/01/2018"	"San José de Uré"	"Córdoba"	"Desconocidos"	"San Pedro, corregimiento Versalles: Coccam y Marcha"	
+							"Patriótica"	
+							"Secretario del cabildo,"	
+8	"Luis Díaz López"	"H"	"19/01/2018"	"Tame"	"Arauca"	"Ejército"	"comunidad indígena Julieros,"	
+							"Pueblo Betoy, Tame"	
+9	"Miller Díaz López"	"H"	"19/01/2018"	"Tame"	"Arauca"	"Ejército"	"Comunidad indígena Julieros, Pueblo Betoy, Tame"	
+10	"Leidy Xiomara Peña Naveo"	"M"	"19/01/2018"	"Tame"	"Arauca"	"Ejército"	"Docente"	
+11	"Víctor Manuel Barrera"	"H"	"21/01/2018"	"Arauquita"	"Arauca"	"Disidencia"	"Dirigente sindical Reconocido líder, Consejo"	
+								
+12	"José Olmedo Obando"	"H"	"22/01/2018"	"Ipiales"	"Nariño"	"Desconocidos"	"Comunitario Nueva Espe-ranza: Conafro y a Marcha Patriótica"	
+								
+13	"Harley Johanny Mogollón Becerra"	"H"	"22/01/2018"	"Saravena"	"Arauca"	"Desconocidos"	"Coordinador de Asonalca, Distrito No. 1; Coordinadora Campesina de Saravena Consejo Comunitario Cerro"	
+								
+14	"Fares Carabalí Carbonero"	"H"	"23/01/2018"	"Buenos Aires"	"Cauca"	"Desconocidos"	"Teta, PCN Anafro; represen-tante de Coomultimineros"	
+								
+15	"José Fernando Castillo"	"H"	"23/01/2018"	"Buenos Aires"	"Cauca"	"Desconocidos"	"Consejo Comunitario Cerro Teta, PCN AnafroLíder, movimiento Compromiso"	
+								
+16	"Berber Velásquez Vitola"	"H"	"24/01/2018"	"Cáceres"	"Antioquia"	"Desconocidos"	"Ciudadano. JAC y profesorde danza"	
+								
+17	"Humberto Manuel Escobar Mercado"	"H"	"25/01/2018"	"Sucre"	"Sucre"	"Desconocidos"	"Reclamante de tierras Finca «La Concepción»"	
+18	"Prisciliano Manuel Mercado García"	"H"	"25/01/2018"	"Sucre"	"Sucre"	"Desconocidos"	"Reclamante de tierras Finca «La Concepción»"	
+	"Miguel Eduardo Parra
+Rondón"	"H"	"25/01/2018"	"Chitagá"	"Norte de
+Santander"	"Ejército"	"Presidente, JAC, vereda El
+Roble"	
+21	"Eleazar Tequia Bitucay"	"H"	"26/01/2018"	"Quibdó"	"Chocó"	"Ejército"	"Guardia Mayor. Coordinador
+de la Guardia Indígena, res-
+guardo indígena Embera Ka-
+tío El Dieciocho, comunidad
+que hace parte de Asorewa"	
+22	"Mario Elías Carrascal
+Náder"	"H"	"26/01/2018"	"Montería"	"Córdoba"	"Desconocidos"	"Exalcalde de Puerto Liberta-
+dor (Córdoba) 2008 – 2012"	
+23	"Temístocles Machado"	"H"	"27/01/2018"	"Buenaventura"	"Valle"	"Desconocidos"	"Reconocido líder comuni-
+tario del barrio Isla de la
+Paz. Defensor del derecho al
+territorio. Luchador por la
+conservación de las tierras
+ubicadas sobre la vía alterna
+interna. Destacado negocia-
+dor al interior del Comité del
+Paro Cívico"	
+24	"Nicomedes Payán"	"H"	"29/01/2018"	"López de
+Micay"	"Cauca"	"Desconocidos"	"Líder, comunidad de Taparal,
+a orillas del río Micay"	
+25	"Nixon Mutis Sossa"	"H"	"30/01/2018"	"Cantagallo"	"Bolívar"	"Desconocidos"	"Expresidente, JAC, vereda
+Chaparral; Comité Intervere-
+dal de derechos humanos de
+Cantagallo, líder de la susti-
+tución gradual y concertada,
+integrante de la Coccam"	
+26	"Leidy Amaya Ramírez"	"M"	"30/01/2018"	"San Calixto"	"Norte de
+Santander"	"Desconocidos"	"Promotora de salud"	
+27	"Antonio María Vargas
+Madrid"	"H"	"31/01/2018"	"San José de
+Uré"	"Córdoba"	"Desconocidos"	"Tesorero, JAC, vereda Nueva
+Ilusión, corregimiento de
+Batatalito; Ascsucor, Coccam
+y Marcha Patriótica"	
+28	"María Yolanda Maturana"	"M"	"01/02/2018"	"Pueblo Rico"	"Risaralda"	"Desconocidos"	"Líder social y ambientalista"	
+29	"Diana Patricia Mejía
+Fonseca"	"M"	"03/02/2018"	"Bogotá D.C."	"Bogotá D.C."	"Desconocidos"	"Madre comunitaria, barrio
+Candelaria La Nueva (Ciudad
+Bolívar). Maestra y trabaja-
+dora del ICBF"	
+30	"Carlos Eduardo Melo
+Ramírez"	"H"	"05/02/2018"	"Bogotá D.C."	"Bogotá D.C."	"Desconocidos"	"Líder comunal,  barrio
+Antonio José de Sucre, Usme"	
+31	"Sandra Yaneth Luna"	"M"	"05/02/2018"	"Tibú"	"Norte de
+Santander"	"Desconocidos"	"Presidenta, JAC, vereda
+Totumito Carboneras"	
+32	"David Alexis Narvaez"	"H"	"08/02/2018"	"Tarazá"	"Antioquia"	"AGC"	"Hacia parte del programa
+nacional de sustitución de
+cultivos"	
+33	"Jesús Orlando Grueso
+Obregón"	"H"	"09/02/2018"	"Guapi"	"Cauca"	"Desconocidos"	"Moepp, Coccam, Conpi,
+Cenpaz y Marcha Patriótica"	
+34	"Jonathan Cundumi Anchino"	"H"	"09/02/2018"	"Guapi"	"Cauca"	"Desconocidos"	"Moepp, Coccam, Conpi,
+Cenpaz y Marcha Patriótica"	
+35	"Deiver Quintero Pérez"	"H"	"11/02/2018"	"Tarra"	"Norte de
+Santander"	"Desconocidos"	"Líder comunal y coordinador
+de deportes del Tarra"	
+36	"Omar Arbey Martínez"	"H"	"12/02/2018"	"Tame"	"Arauca"	"Desconocidos"	"Comisión de Convivencia y
+Conciliación, JAC de la vere-
+da Corocito, de Tame"	
+							"Líder comunitario reconocido"	
+							"por apoyar a la comunidad en"	
+							"reivindicaciones culturales."	
+38	"Cristian Camilo Toro Rodas"	"H"	"17/02/2018"	"Quimbaya"	"Risaralda"	"Desconocidos"	"Exconcejal, Partido Liberal"	
+							"2012-2016, con aspiraciones"	
+							"a la Alcaldía en elecciones"	
+							"de 2019"	
+39	"Gaby Lili Ordoñez"	"M"	"19/02/2018"	"Timbío"	"Cauca"	"Desconocidos"	"Docente"	
+							"Tesorero, Comité de impulso"	
+							"de la Coccam, vereda La"	
+40	"Flover Sapuyes Gaviria"	"H"	"23/02/2018"	"Balboa"	"Cauca"	"Desconocidos"	"Esperanza, Ascatbal, Fensua-"	
+							"gro CUT, Pupsoc, y Marcha"	
+							"Patriótica"	
+							"Comité de vigilancia en Coo-"	
+							"mutranort; trabajador por"	
+41	"Juan Emilio Abrán Solano"	"H"	"23/02/2018"	"Cúcuta"	"Norte de San-tander"	"Desconocidos"	"los derechos de los asociados. Apoyaba a jóvenes en la Fundación Mis Quinceañeras,"	
+42	"Cristian Emilio Jaimes Triana"	"H"	"26/02/2018"	"Bucaramanga"	"Santander"	"Desconocidos"	"y superación. Se destacaba por sus obras sociales y por ser líder de la comuna 10 de"	
+43	"Soneyda Figueroa Duarte"	"M"	"26/02/2018"	"Puerto Asís"	"Putumayo"	"Desconocidos"	"Defensora publica"	
+44	"Berlinda Gómez"	"M"	"27/02/2018"	"Mapiripán"	"Meta"	"Desconocidos"	"habitante del resguardo"	
+45	"Julio Cesar Urango Sánchez"	"H"	"01/03/2018"	"Caucasia"	"Antioquia"	"Desconocidos"	"Comunero indígena Senú Trige dos"	
+46	"Hermilsun Larraonda Rendón"	"H"	"03/03/2018"	"Orito"	"Putumayo"	"Desconocidos"	"Presidente, JAC, barrio Los Alpes, Orito"	
+47	"Eider Arley Campo Hurtado"	"H"	"05/03/2018"	"Caldono"	"Cauca"	"Desconocidos"	"del CRIC y emisora Pioyá"	
+48	"Luis Arturo Royet Campo"	"H"	"06/03/2018"	"San José de Uré"	"Córdoba"	"Desconocidos"	"Presidente, JAC, vereda Santa Isabel, corregimiento Doradas"	
+49	"Víctor Hugo Martínez Barragan"	"H"	"06/03/2018"	"Cimitarra"	"Santander"	"Desconocidos"	"Representante legal, Asocia-ción Campesina La Nueva Esperanza"	
+50	"Tomas Barreto Moreno"	"H"	"07/03/2018"	"San José de Uré"	"Córdoba"	"Desconocidos"	"Consejo Comunitario de Negritudes y sobrino de un concejal de la localidad"	
+51	"Juan Gabriel Pascal Taicus"	"H"	"17/03/2018"	"Barbacoas"	"Nariño"	"Desconocidos"	"15 años, comunero del resguardo indígena Awá"	
+52	"Luis Fernando Hernández Hernández"	"H"	"17/03/2018"	"Caucasia"	"Antioquia"	"Desconocidos"	"De la etnia Zenú, pertenecien-te al Cabildo Zenú de Santa Rosita"	
+53	"Juan Mena"	"H"	"19/03/2018"	"Quibdó"	"Chocó"	"Desconocidos"	"Álamos, sector de la Arrocera,Comuna 1"	
+54	"Silvio Dubán Ortiz"	"H"	"19/03/2018"	"Tumaco"	"Nariño"	"Desconocidos"	"Hermano del líder también
+asesinado Javier Bernardo
+Cuero Ortiz"	
+55	"Javier Bernardo Cuero Ortiz"	"H"	"19/03/2018"	"Tumaco"	"Nariño"	"Desconocidos"	"Hermano del también ase-
+sinado Silvio Dubán Ortíz e
+hijo del también asesinado
+Bernardo Cuero Bravo, fiscal
+nacional de Afrodes"	
+56	"José Anibal Herrera"	"H"	"20/03/2018"	"Valdivia"	"Antioquia"	"Desconocidos"	"Líder campesino y defensor
+de derechos humanos, funda-
+dor de Asocbac, integrante
+de la Coccam y de Marcha
+Patriótica; vocero, Comisión
+Municipal de Planeación
+participativa del PNIS, en
+Valdivia"	
+57	"José Alcides Ospina Arango"	"H"	"22/03/2018"	"Pensilvania"	"Caldas"	"Desconocidos"	"Presidente, JAC, vereda
+Guayaquil"	
+58	"Lisandro Antonio
+Hernández Triviño"	"H"	"24/03/2018"	"El Tambo"	"Cauca"	"Desconocidos"	"Sobreviviente de la UP e hijo
+de exmilitante y sobreviviente
+de la Unión Patriótica (UP)"	
+59	"José Wilson Escué Vitoncó"	"H"	"25/03/2018"	"Caloto"	"Cauca"	"Policía - Ejér-
+cito Nacional"	"Comunero indígena, resguardo
+de Huellas, Caloto"	
+60	"Víctor Alfonso Zabaleta
+Oviedo"	"H"	"25/03/2018"	"Caucasia"	"Antioquia"	"Desconocidos"	"Presidente, JAC, vereda El
+Rizo, municipio de Cáceres;
+parte del programa de sus-
+titución de cultivos de uso
+ilícito"	
+61	"Jorge Miguel Polanco Ávila"	"H"	"25/03/2018"	"Cáceres"	"Antioquia"	"Desconocidos"	"Expresidente, JAC, vereda
+Caño Prieto"	
+62	"Israel Fajardo"	"H"	"27/03/2018"	"Macarena"	"Meta"	"Desconocidos"	"En 1968, con otras personas
+de la vereda, dieron origen
+a la primera JAC, de la que
+fue su dignatario por muchos
+años"	
+63	"María Magdalena Cruz
+Rojas"	"M"	"30/03/2018"	"Mapiripán"	"Meta"	"Desconocidos"	"Programa de sustitución de
+cultivos ilícitos en sector de
+Brisas del Iteviare, inspección
+de Rincón del Indio,
+Mapiripán"	
+64	"Héctor Jáner Latín"	"H"	"30/03/2018"	"Corinto"	"Cauca"	"Desconocidos"	"Comunero indígena liberador
+de la madre tierra"	
+65	"Belisario Benavidez
+Ordóñez"	"H"	"31/03/2018"	"Rosas"	"Cauca"	"Desconocidos"	"Reconocido dirigente, inte-
+grante de la Mesa de Vícti-
+mas de Rosas. Desplazado de
+El Patía por violencia"	
+66	"Álvaro Perez"	"H"	"04/04/2018"	"Tibú"	"Norte de San-
+tander"	"Desconocidos"	"Ascamcat, Marcha Patriótica"	
+67	"Saúl Mendieta"	"H"	"04/04/2018"	"Soledad"	"Atlántico"	"Desconocidos"	"Dirigente comunal, comité de
+deporte de JAC Villa del Rey"	
+68	"Ferney Lozada"	"H"	"03/04/2018"	"Puerto Rico"	"Caquetá"	"Desconocidos"	"Secretario general, Sunmcol"	
+70	"Wilson Arnulfo Quetama"	"H"	"08/04/2018"	"San José del Palmar"		"Chocó"	"ELN"	"de la Mesa de Participación de Víctimas en 2017 y líder del proceso de reparación"
+71	"Claudio Chaves"	"H"	"09/04/2018"	"San José del Palmar"		"Chocó"	"ELN"	"en 2014. Líder de proyectos de piscicultura y siembra de chontaduro y borojó, median-"
+72	"Efrén Zúñiga Dorado"	"H"	"14/04/2018"	"Piendamó"		"Cauca"	"Desconocidos"	"tiva del Melcho Piendamó."
+73	"James Luis Jimenez Estrada"	"H"	"20/04/2018"	"San Pedro de Urabá"		"Antioquia"	"Desconocidos"	"Presidente, JAC, vereda Cacahual, corregimiento San Vicente del Congo, Turbo"
+74	"María del Carmen Moreno"	"M"	"28/04/2018"	"Arauquita"		"Arauca"	"Desconocidos"	"Presidenta, JAC, vereda Caño Rico"
+75	"Hugo Albeiro George Pérez"	"H"	"02/05/2018"	"Valdivia"		"Antioquia"	"Desconocidos"	"Ituango, Movimiento Ríos"
+76	"Luis Alberto Torres Montoya"	"H"	"05/05/2018"	"Valdivia"		"Antioquia"	"Desconocidos"	"Pescador y barequero del río Cauca. AMPA, Movimiento Ríos Vivos"
+77	"Harold Lerma Palacio"	"H"	"13/05/2018"	"Tumaco"		"Nariño"	"Desconocidos"	"tución de cultivos ilícitos. Asesor y miembro de JAC de su vereda"
+78	"Ramón Ascue"	"H"	"14/05/2018"	"Corinto"		"Cauca"	"Desconocidos"	"Comunero indígena y libera- dor de la madre tierra, vereda Pan de Azúcar, comunidad"
+								"indígena de Corinto"
