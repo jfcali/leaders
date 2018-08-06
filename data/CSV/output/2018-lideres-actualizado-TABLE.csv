@@ -1,137 +1,132 @@
-Nombre,Sexo,Fecha de incidente,Municipio,Departamento,Presuntos responsables *,Nota,SECTOR SOCIAL
+Nombre,Sexo,Fecha de incidente,Municipio,Departamento,Presuntos responsables *,Nota,SECTOR SOCIAL,
 "HECTOR EVERSON
 HERNANDEZ",H,04/01/2018,BOGOTA D.C.,BOGOTA D.C.,DESCONOCIDOS,Poblador Urbano y artista Popular,"ARTISTA
-POPULAR"
-ALIRIO SANCHEZ,H,06/01/2018,TOTORO,CAUCA,DESCONOCIDOS,"Líder indígena, autoridad y médico tradicional del resguardo Totoró",INDIGENA
+POPULAR",
+ALIRIO SANCHEZ,H,06/01/2018,TOTORO,CAUCA,DESCONOCIDOS,"Líder indígena, autoridad y médico tradicional del resguardo Totoró",INDIGENA,
 "DIANA LUZ ROMERO
-MOGALES",M,09/01/2018,PUERTO LEGUISAMO,PUTUMAYO,DESCONOCIDOS,"Presidenta JAC Vereda San Joaquín, corregimiento de Piñuña Negro",CAMPESINO – COMUNAL
-DIANA LUZ SOLANO,M,17/01/2018,ZARAGOZA,ANTIOQUIA,DESCONOCIDOS,"Comunera indígena. Guardia indígena e hija de Rufino Solano, gobernador Senú de la comunidad La Esperanza.",INDIGENA
+MOGALES",M,09/01/2018,PUERTO LEGUISAMO,PUTUMAYO,DESCONOCIDOS,"Presidenta JAC Vereda San Joaquín, corregimiento de Piñuña Negro",CAMPESINO – COMUNAL,
+DIANA LUZ SOLANO,M,17/01/2018,ZARAGOZA,ANTIOQUIA,DESCONOCIDOS,"Comunera indígena. Guardia indígena e hija de Rufino Solano, gobernador Senú de la comunidad La Esperanza.",INDIGENA,
 "VÍCTOR MANUEL
-MORATO",H,17/01/2018,YONDÓ,ANTIOQUIA,DESCONOCIDOS,Presidente de la Junta de Acción Comunal de la vereda La Rompida en Yondó,CAMPESINO – COMUNAL
+MORATO",H,17/01/2018,YONDÓ,ANTIOQUIA,DESCONOCIDOS,Presidente de la Junta de Acción Comunal de la vereda La Rompida en Yondó,CAMPESINO – COMUNAL,
 JORGE YIMMI CELIS,H,17/01/2018,CÚCUTA,"NORTE DE
-SANTANDER",DESCONOCIDOS,Integrante de la Junta de Colinas del Tunal de la comuna Seis de Cúcuta,COMUNAL
-PLINIO PULGARIN,H,18/01/2018,SAN JOSÉ DE URÉ,CÓRDOBA,DESCONOCIDOS,"Presidente de la JAC de la vereda San Pedro, corregimiento Versalles, integrante de la COCCAM y de la Marcha Patriótica",CAMPESINO – PNIS
-LUIS DÍAZ LÓPEZ,H,19/01/2018,TAME,ARAUCA,EJÉRCITO,Secretario del Cabildo comunidad indígena Julieros del Pueblo Betoy del municipio de Tame,INDIGENA
-MILLER DÍAZ LÓPEZ,H,19/01/2018,TAME,ARAUCA,EJÉRCITO,Integrante de la comunidad indígena Julieros delPueblo Betoy,INDIGENA
+SANTANDER",DESCONOCIDOS,Integrante de la Junta de Colinas del Tunal de la comuna Seis de Cúcuta,COMUNAL,
+PLINIO PULGARIN,H,18/01/2018,SAN JOSÉ DE URÉ,CÓRDOBA,DESCONOCIDOS,"Presidente de la JAC de la vereda San Pedro, corregimiento Versalles, integrante de la COCCAM y de la Marcha Patriótica",CAMPESINO – PNIS,
+LUIS DÍAZ LÓPEZ,H,19/01/2018,TAME,ARAUCA,EJÉRCITO,Secretario del Cabildo comunidad indígena Julieros del Pueblo Betoy del municipio de Tame,INDIGENA,
+MILLER DÍAZ LÓPEZ,H,19/01/2018,TAME,ARAUCA,EJÉRCITO,Integrante de la comunidad indígena Julieros delPueblo Betoy,INDIGENA,
 "LEIDY XIOMARA PEÑA
-NAVEO",M,19/01/2018,TAME,ARAUCA,EJÉRCITO,Docente,DOCENTE
-VÍCTOR MANUELBARRERA,H,21/01/2018,ARAUQUITA,ARAUCA,DISIDENCIA,Dirigente Sindical Arauca,SINDICALISTA
+NAVEO",M,19/01/2018,TAME,ARAUCA,EJÉRCITO,Docente,DOCENTE,
+VÍCTOR MANUELBARRERA,H,21/01/2018,ARAUQUITA,ARAUCA,DISIDENCIA,Dirigente Sindical Arauca,SINDICALISTA,
 "JOSÉ OLMEDO
-OBANDO",H,22/01/2018,IPIALES,NARIÑO,DESCONOCIDOS,"Reconocido líder del Consejo Comunitario Afro Nueva Esperanza, integrante de CONAFRO y de la Marcha Patriótica",AFRODESCENDIENTE
-HARLEY JOHANNY MOGOLLÓN BECERRA,H,22/01/2018,SARAVENA,ARAUCA,DESCONOCIDOS,"Coordinador de ASONALCA Distrito No. 1, integrante de la Coordinadora Campesina de Saravena",CAMPESINO
-FARES CARABALÍ CARBONERO,H,23/01/2016,BUENOS AIRES,CAUCA,DESCONOCIDOS,"Miembro del Consejo Comunitario Cerro Teta, integrante de PCN ANAFRO, líder y representante de la Cooperativa Multiactiva Unión de Mineros de Buenos Aires, Cauca – Coomultimineros, hermano del alcalde de ése municipio, Urdely Carabalí.",AFRODESCENDIENTE – MINERIA
-JOSE FERNANDO CASTILLO,H,23/01/2018,BUENOS AIRES,CAUCA,DESCONOCIDOS,"Miembro del Consejo Comunitario Cerro Teta, integrante de PCN ANAFRO",AFRODESCENDIENTE
-BERBER VELASQUEZVITOLA,H,24/01/2018,CÁCERES,ANTIOQUIA,DESCONOCIDOS,Líder de movimiento Compromiso Ciudadano. Miembro de la Junta de Acción Comunal y profesor de danza,COMUNAL
-HUMBERTO MANUEL ESCOBAR MERCADO,H,25/01/2018,SUCRE,SUCRE,DESCONOCIDOS,"Reclamante de tierras Finca ""La Concepción""",RECLAMANTE DE TIERRAS
-PRISCILIANO MANUEL MERCADO GARCÍA,H,25/01/2018,SUCRE,SUCRE,DESCONOCIDOS,"Reclamante de tierras Finca ""La Concepción""",RECLAMANTE DE TIERRAS
-MANUEL EUSEBIO OSORIO ESCOBAR,H,25/01/2018,SUCRE,SUCRE,DESCONOCIDOS,"Reclamante de tierras Finca ""La Concepción""",RECLAMANTE DE TIERRAS
-MIGUEL EDUARDO PARRA RONDÓN,H,25/01/2018,CHITAGA,NORTE DE SANTANDER,EJÉRCITO,"Presidente de la Junta de Acción Comunal de la vereda El Roble según la comunidad se desplazaba por el sector de la vereda Lircha, en el carro recolector de leche",CAMPESINO – COMUNAL
-ELEAZAR TEQUIABITUCAY,H,26/01/2018,QUIBDÓ,CHOCÓ,EJÉRCITO,"Guardia Mayor de 41 años de edad, desde hace diez (10) años ejerció como coordinador de la Guardia Indígena en el ámbito territorial del Resguardo Indígena Embera Katio El Dieciocho, comunidad que hace parte de ASOREWA.",INDIGENA
-MARIO ELÍAS CARRASCAL NÁDER,H,26/01/2018,MONTERÍA,CÓRDOBA,DESCONOCIDOS,"Ex alcalde de Puerto Libertador (Córdoba), se había desempeñado en ese cargo durante el período 2008 – 2012. Tuvo que enfrentar serios problemas de orden público por la presencia de bandas criminales en la zona.",DIRIGENTE POLITICO
-TEMÍSTOCLES MACHADO,H,27/01/2018,BUENAVENTURA,VALLE,DESCONOCIDOS,Reconocido líder comunitario del barrio Isla de la Paz. Defendía el derecho al territorio y luchaba por la conservación de las tierras ubicadas sobre la vía alterna interna. Destacado negociador al interior del Comité del Paro Cívico,AFRODESCENDIENTE
-NICOMEDES PAYÁN,H,29/01/2018,LÓPEZ DE MICAY,CAUCA,DESCONOCIDOS,"Líder comunitario, social y político vivía en la comunidad de Taparal a orillas del Río Micay",AFRODESCENDIENTE
-NIXON MUTIS SOSSA,H,30/01/2018,CANTAGALLO,Bolívar,DESCONOCIDOS,"Ex presidente de la Junta de Acción Comunal de la vereda Chaparral. Integrante del Comité Interveredal de DDHH de Cantagallo, líder de la sustitución gradual y concertada, integrante de la COCCAM.",CAMPESINO – PNIS
-LEIDY AMAYA RAMIREZ,M,30/01/2018,SAN CALIXTO,NORTE DE SANTANDER,DESCONOCIDOS,Promotora de Salud,SALUD
-ANTONIO MARIA VARGAS MADRID,H,31/01/2018,SAN JOSÉ DE URÉ,CÓRDOBA,DESCONOCIDOS,"Tesorero de la Junta de Acción Comunal de la vereda Nueva Ilusión, del corregimiento de Batatalito, Municipio de San José de Ure, departamento de Córdoba, igualmente era integrante de la Asociación de Campesinos del Sur de Córdoba – ASCSUCOR, de la coordinadora Nacional de Cultivadores de Coca Amapola y Marihuana COCCAM y del Movimiento Político y Social Marcha Patriótica.",CAMPESINO – PNIS
-MARIA YOLANDA MATURANA,M,01/02/2018,PUEBLO RICO,RISARALDA,DESCONOCIDOS,Líder Social y Ambientalista,CAMPESINO – AMBIENTALISTA
-DIANA PATRICIA MEJIA FONSECA,M,03/02/2018,BOGOTA D.C.,BOGOTA D.C.,DESCONOCIDOS,Madre comunitaria del barrio Candelaria La Nueva (Ciudad Bolívar). Trabajaba con el ICBF y quien era maestra.,DOCENTE
-CARLOS EDUARDO MELO RAMIREZ,H,05/02/2018,BOGOTA D.C.,BOGOTA D.C.,DESCONOCIDOS,"Líder comunal del barrio Antonio José de Sucre, en Usme",COMUNAL
-SANDRA YANETH LUNA,M,05/02/2018,TIBU,NORTE DE SANTANDER,DESCONOCIDOS,Presidenta de la Junta de Acción Comunal de la vereda Totumito Carboneras,CAMPESINO – COMUNAL
-DAVID ALEXIS NARVAEZ,H,08/02/2018,TARAZA,ANTIOQUIA,AGC,Hacia parte del programa nacional de sustitución de cultivos,CAMPESINO – PNIS
-JESUS ORLANDO GRUESO OBREGON,H,09/02/2018,GUAPI,CAUCA,DESCONOCIDOS,"MOEP, COCCAM, CONPI, CENPAZ Y MARCHA PATRIOTICA",AFRODESCENDIENTE – PNIS
-JONATHAN CUNDUMI ANCHINO,H,09/02/2018,GUAPI,CAUCA,DESCONOCIDOS,"MOEP, COCCAM, CONPI, CENPAZ Y MARCHA PATRIOTICA",AFRODESCENDIENTE – PNIS
-DEIVER QUINTERO PEREZ,H,11/02/2018,TARRA,NORTE DE SANTANDER,DESCONOCIDOS,Líder comunal y coordinador de deportes de este municipio,COMUNAL
-OMAR ARBEY MARTÍNEZ,H,12/02/2018,TAME,ARAUCA,DESCONOCIDOS,Integrante de la Comisión de Convivencia y Conciliación de la Junta de Acción Comunal de la vereda Corocito de Tame,CAMPESINO – COMUNAL
-ELKIN FABIAN TORO,H,17/02/2018,EL TARRA,NORTE DE SANTANDER,DESCONOCIDOS,Tuvo un cargo administrativo en una Junta de Acción Comunal hasta octubre de 2017.,CAMPESINO -COMUNAL
-CRISTIAN CAMILO TORO RODAS,H,17/02/2018,QUIMBAYA,QUINDIO,DESCONOCIDOS,"Líder comunitario reconocido por su labor de apoyo a la comunidad en reivindicaciones culturales en el Municipio. Ex concejal partido Liberal 2012-2016, con aspiraciones alcaldía en elecciones 2019.",COMUNAL
-GABY LILI ORDOÑEZ,M,19/02/2018,TIMBIO,CAUCA,DESCONOCIDOS,Docente,DOCENTE
-FLOVER SAPUYES GAVIRIA,H,23/02/2018,BALBOA,CAUCA,DESCONOCIDOS,"Tesorero del Comité de impulso de la COCCAM en la vereda La Esperanza, ASCATBAL, FENSUAGRO CUT, PUPSOC, y Marcha Patriótica Cauca",CAMPESINO – PNIS
-JUAN EMILIO ABRAN SOLANO,H,23/02/2018,CUCUTA,NORTE DE SANTANDER,DESCONOCIDOS,Miembro de la Cooperativa de Crédito COOMUTRANORT; Apoyaba a la Fundación Mis Quinceañeras de las comuna 8 apoyo a jóvenes. Ex tesorero Asojuntas comuna 5 Cúcuta. Asociación Colombiana de Redactores Deportivos (Acord),COMUNAL
+OBANDO",H,22/01/2018,IPIALES,NARIÑO,DESCONOCIDOS,"Reconocido líder del Consejo Comunitario Afro Nueva Esperanza, integrante de CONAFRO y de la Marcha Patriótica",AFRODESCENDIENTE,
+HARLEY JOHANNY MOGOLLÓN BECERRA,H,22/01/2018,SARAVENA,ARAUCA,DESCONOCIDOS,"Coordinador de ASONALCA Distrito No. 1, integrante de la Coordinadora Campesina de Saravena",CAMPESINO,
+FARES CARABALÍ CARBONERO,H,23/01/2016,BUENOS AIRES,CAUCA,DESCONOCIDOS,"Miembro del Consejo Comunitario Cerro Teta, integrante de PCN ANAFRO, líder y representante de la Cooperativa Multiactiva Unión de Mineros de Buenos Aires, Cauca – Coomultimineros, hermano del alcalde de ése municipio, Urdely Carabalí.",AFRODESCENDIENTE – MINERIA,
+JOSE FERNANDO CASTILLO,H,23/01/2018,BUENOS AIRES,CAUCA,DESCONOCIDOS,"Miembro del Consejo Comunitario Cerro Teta, integrante de PCN ANAFRO",AFRODESCENDIENTE,
+BERBER VELASQUEZVITOLA,H,24/01/2018,CÁCERES,ANTIOQUIA,DESCONOCIDOS,Líder de movimiento Compromiso Ciudadano. Miembro de la Junta de Acción Comunal y profesor de danza,COMUNAL,
+HUMBERTO MANUEL ESCOBAR MERCADO,H,25/01/2018,SUCRE,SUCRE,DESCONOCIDOS,"Reclamante de tierras Finca ""La Concepción""",RECLAMANTE DE TIERRAS,
+PRISCILIANO MANUEL MERCADO GARCÍA,H,25/01/2018,SUCRE,SUCRE,DESCONOCIDOS,"Reclamante de tierras Finca ""La Concepción""",RECLAMANTE DE TIERRAS,
+MANUEL EUSEBIO OSORIO ESCOBAR,H,25/01/2018,SUCRE,SUCRE,DESCONOCIDOS,"Reclamante de tierras Finca ""La Concepción""",RECLAMANTE DE TIERRAS,
+MIGUEL EDUARDO PARRA RONDÓN,H,25/01/2018,CHITAGA,NORTE DE SANTANDER,EJÉRCITO,"Presidente de la Junta de Acción Comunal de la vereda El Roble según la comunidad se desplazaba por el sector de la vereda Lircha, en el carro recolector de leche",CAMPESINO – COMUNAL,
+ELEAZAR TEQUIABITUCAY,H,26/01/2018,QUIBDÓ,CHOCÓ,EJÉRCITO,"Guardia Mayor de 41 años de edad, desde hace diez (10) años ejerció como coordinador de la Guardia Indígena en el ámbito territorial del Resguardo Indígena Embera Katio El Dieciocho, comunidad que hace parte de ASOREWA.",INDIGENA,
+MARIO ELÍAS CARRASCAL NÁDER,H,26/01/2018,MONTERÍA,CÓRDOBA,DESCONOCIDOS,"Ex alcalde de Puerto Libertador (Córdoba), se había desempeñado en ese cargo durante el período 2008 – 2012. Tuvo que enfrentar serios problemas de orden público por la presencia de bandas criminales en la zona.",DIRIGENTE POLITICO,
+TEMÍSTOCLES MACHADO,H,27/01/2018,BUENAVENTURA,VALLE,DESCONOCIDOS,Reconocido líder comunitario del barrio Isla de la Paz. Defendía el derecho al territorio y luchaba por la conservación de las tierras ubicadas sobre la vía alterna interna. Destacado negociador al interior del Comité del Paro Cívico,AFRODESCENDIENTE,
+NICOMEDES PAYÁN,H,29/01/2018,LÓPEZ DE MICAY,CAUCA,DESCONOCIDOS,"Líder comunitario, social y político vivía en la comunidad de Taparal a orillas del Río Micay",AFRODESCENDIENTE,
+NIXON MUTIS SOSSA,H,30/01/2018,CANTAGALLO,Bolívar,DESCONOCIDOS,"Ex presidente de la Junta de Acción Comunal de la vereda Chaparral. Integrante del Comité Interveredal de DDHH de Cantagallo, líder de la sustitución gradual y concertada, integrante de la COCCAM.",CAMPESINO – PNIS,
+LEIDY AMAYA RAMIREZ,M,30/01/2018,SAN CALIXTO,NORTE DE SANTANDER,DESCONOCIDOS,Promotora de Salud,SALUD,
+ANTONIO MARIA VARGAS MADRID,H,31/01/2018,SAN JOSÉ DE URÉ,CÓRDOBA,DESCONOCIDOS,"Tesorero de la Junta de Acción Comunal de la vereda Nueva Ilusión, del corregimiento de Batatalito, Municipio de San José de Ure, departamento de Córdoba, igualmente era integrante de la Asociación de Campesinos del Sur de Córdoba – ASCSUCOR, de la coordinadora Nacional de Cultivadores de Coca Amapola y Marihuana COCCAM y del Movimiento Político y Social Marcha Patriótica.",CAMPESINO – PNIS,
+MARIA YOLANDA MATURANA,M,01/02/2018,PUEBLO RICO,RISARALDA,DESCONOCIDOS,Líder Social y Ambientalista,CAMPESINO – AMBIENTALISTA,
+DIANA PATRICIA MEJIA FONSECA,M,03/02/2018,BOGOTA D.C.,BOGOTA D.C.,DESCONOCIDOS,Madre comunitaria del barrio Candelaria La Nueva (Ciudad Bolívar). Trabajaba con el ICBF y quien era maestra.,DOCENTE,
+CARLOS EDUARDO MELO RAMIREZ,H,05/02/2018,BOGOTA D.C.,BOGOTA D.C.,DESCONOCIDOS,"Líder comunal del barrio Antonio José de Sucre, en Usme",COMUNAL,
+SANDRA YANETH LUNA,M,05/02/2018,TIBU,NORTE DE SANTANDER,DESCONOCIDOS,Presidenta de la Junta de Acción Comunal de la vereda Totumito Carboneras,CAMPESINO – COMUNAL,
+DAVID ALEXIS NARVAEZ,H,08/02/2018,TARAZA,ANTIOQUIA,AGC,Hacia parte del programa nacional de sustitución de cultivos,CAMPESINO – PNIS,
+JESUS ORLANDO GRUESO OBREGON,H,09/02/2018,GUAPI,CAUCA,DESCONOCIDOS,"MOEP, COCCAM, CONPI, CENPAZ Y MARCHA PATRIOTICA",AFRODESCENDIENTE – PNIS,
+JONATHAN CUNDUMI ANCHINO,H,09/02/2018,GUAPI,CAUCA,DESCONOCIDOS,"MOEP, COCCAM, CONPI, CENPAZ Y MARCHA PATRIOTICA",AFRODESCENDIENTE – PNIS,
+DEIVER QUINTERO PEREZ,H,11/02/2018,TARRA,NORTE DE SANTANDER,DESCONOCIDOS,Líder comunal y coordinador de deportes de este municipio,COMUNAL,
+OMAR ARBEY MARTÍNEZ,H,12/02/2018,TAME,ARAUCA,DESCONOCIDOS,Integrante de la Comisión de Convivencia y Conciliación de la Junta de Acción Comunal de la vereda Corocito de Tame,CAMPESINO – COMUNAL,
+ELKIN FABIAN TORO,H,17/02/2018,EL TARRA,NORTE DE SANTANDER,DESCONOCIDOS,Tuvo un cargo administrativo en una Junta de Acción Comunal hasta octubre de 2017.,CAMPESINO -COMUNAL,
+CRISTIAN CAMILO TORO RODAS,H,17/02/2018,QUIMBAYA,QUINDIO,DESCONOCIDOS,"Líder comunitario reconocido por su labor de apoyo a la comunidad en reivindicaciones culturales en el Municipio. Ex concejal partido Liberal 2012-2016, con aspiraciones alcaldía en elecciones 2019.",COMUNAL,
+GABY LILI ORDOÑEZ,M,19/02/2018,TIMBIO,CAUCA,DESCONOCIDOS,Docente,DOCENTE,
+FLOVER SAPUYES GAVIRIA,H,23/02/2018,BALBOA,CAUCA,DESCONOCIDOS,"Tesorero del Comité de impulso de la COCCAM en la vereda La Esperanza, ASCATBAL, FENSUAGRO CUT, PUPSOC, y Marcha Patriótica Cauca",CAMPESINO – PNIS,
+JUAN EMILIO ABRAN SOLANO,H,23/02/2018,CUCUTA,NORTE DE SANTANDER,DESCONOCIDOS,Miembro de la Cooperativa de Crédito COOMUTRANORT, Apoyaba a la Fundación Mis Quinceañeras de las comuna 8 apoyo a jóvenes. Ex tesorero Asojuntas comuna 5 Cúcuta. Asociación Colombiana de Redactores Deportivos (Acord),COMUNAL
 "CRISTIAN EMILIO
-JAIMES TRIANA",H,26/02/2018,BUCARAMANGA,SANTANDER,DESCONOCIDOS,Un joven que era ejemplo de liderazgo y superación. Se destacaba por sus obras sociales y por ser líder de la comuna 10 de Bucaramanga.,CIVICO
-SONEYDA FIGUEROA DUARTE,M,26/02/2018,PUERTO ASIS,PUTUMAYO,DESCONOCIDOS,Defensora Publica,DEFENSORIA DEL PUEBLO
-BERLINDA GÓMEZ,M,27/02/2018,MAPIRIPAN,META,DESCONOCIDOS,De la comunidad indígena Jiw era habitante del Resguardo Mocuare,INDIGENA
-JULIO CESAR URANGO SANCHEZ,H,01/03/2018,CAUCASIA,ANTIOQUIA,DESCONOCIDOS,Comunero indígena Senú trige dos,INDIGENA
-HERMILSUN LARRAONDA RENDON,H,03/03/2018,ORITO,PUTUMAYO,DESCONOCIDOS,"Presidente de la Junta de Acción Comunal del barrio Los Alpes, municipio Orito, departamento Putumayo",COMUNAL
-EIDER ARLEY CAMPO HURTADO,H,05/03/2018,CALDONO,CAUCA,DESCONOCIDOS,"Integrante del colectivo de comunicaciones del Consejo Regional Indígena del Cauca, Cric y la emisora Pioyá Estéreo.",INDIGENA
-LUIS ARTURO ROYET CAMPO,H,06/03/2018,SAN JOSÉ DE URÉ,CORDOBA,DESCONOCIDOS,"Presidente de la Junta de Acción Comunal de la vereda Santa Isabel, corregimiento Doradas, Municipio San José de Ure Departamento de Córdoba",CAMPESINO – COMUNAL
-VICTOR HUGO MARTINEZ BARRAGAN,H,06/03/2018,CIMITARRA,SANTANDER,DESCONOCIDOS,"Representante Legal Asociación Campesina ""La Nueva Esperanza""",CAMPESINO – COMUNAL
-TOMAS BARRETO MORENO,H,07/03/2018,SAN JOSÉ DE URÉ,CORDOBA,DESCONOCIDOS,Miembro del Consejo Comunitario de Negritudes en San José de Uré y sobrino de un concejal de la localidad,AFRODESCENDIENTE
-JUAN GABRIEL PASCAL TAICUS,H,17/03/2018,BARBACOAS,NARIÑO,DESCONOCIDOS,"joven Awá, menor de edad de 15 años comunero del resguardo indígena Awá Tronqueria Pulgande Palicito",INDIGENA
-LUIS FERNANDO HERNÁNDEZ HERNÁNDEZ,H,17/03/2018,CAUCASIA,ANTIOQUIA,DESCONOCIDOS,"Etnia Senú, perteneciente al Cabildo Senú de Santa Rosita, del municipio Caucasia (Antioquia).",INDIGENA
-JUAN MENA,H,19/03/2018,QUIBDO,CHOCO,DESCONOCIDOS,"Presidente de la Junta de Acción Comunal del barrio los Álamos, sector de la Arrocera, Comuna 1",COMUNAL
-SILVIO DUBAN ORTIZ,H,19/03/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Los dos jóvenes eran hermanos, uno de ellos, Javier Bernardo Ortiz era hijo del también asesinado Bernardo Cuero Bravo, Fiscal Nacional de AFRODES",AFRODESCENDIENTE
-JAVIER BERNARDO CUERO ORTIZ,H,19/03/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Los dos jóvenes eran hermanos, uno de ellos, Javier Bernardo Ortiz era hijo del también asesinado Bernardo Cuero Bravo, Fiscal Nacional de AFRODES",AFRODESCENDIENTE
-JOSE ANIBAL HERRERA,H,20/03/2018,VALDIVIA,ANTIOQUIA,DESCONOCIDOS,"Líder campesino y defensor de DH, fundador de ASOCBAC, integrante de la COCCAM y de Marcha Patriótica vocero en la comisión Municipal de planeación participativa del PNIS en Valdivia.",CAMPESINO – PNIS
-JOSE ALCIDES OSPINA ARANGO,H,22/03/2018,PENSILVANIA,CALDAS,DESCONOCIDOS,presidente de la Junta de Acción Comunal de la vereda Guayaquil,CAMPESINO – COMUNAL
-LISANDRO ANTONIO HERNANDEZ TRIVIÑO,H,24/03/2018,EL TAMBO,CAUCA,DESCONOCIDOS,"Sobreviviente de la UP hijo de un ex militante y sobrevivientes de la Unión Patriótica (UP) en el municipio de El Tambo, Cauca.",CAMPESINO
-JOSE WILSON ESCUE VITONCO,H,25/03/2018,CALOTO,CAUCA,POLICIA – EJERCITO NACIONAL,Comunero indígena del resguardo de Huellas Caloto,INDIGENA
-VÍCTOR ALFONSO ZABALETA OVIEDO,H,25/03/2018,CAUCACIA,ANTIOQUIA,DESCONOCIDOS,Presidente de junta de acción comunal de la vereda El Rizo del municipio de Cáceres y hacía parte del programa de sustitución de cultivos de uso ilícito,CAMPESINO – COMUNAL - PNIS
-JORGE MIGUEL POLANCO AVILA,H,25/03/2018,CACERES,ANTIOQUIA,DESCONOCIDOS,Ex presidente de la junta de acción comunal de la vereda Caño Prieto del municipio de Cáceres,CAMPESINO – COMUNAL
-ISRAEL FAJARDO,H,27/03/2018,MACARENA,META,DESCONOCIDOS,"En el año 1968, con un grupo de personas de la vereda, le dieron origen a la primera Junta de Acción Comunal, de la cual fue su Dignatario por muchos años.",CAMPESINO – COMUNAL
-MARÍA MAGDALENA CRUZ ROJAS,M,30/03/2018,MAPIRIPAN,META,DESCONOCIDOS,"Hacía parte del programa de sustitución de cultivos ilícitos en sector de Brizas del Iteviare, inspección de Rincón del Indio, en Mapiripán.",CAMPESINO – PNIS
-HÉCTOR JANER LATÍN,H,30/03/2018,CORINTO,CAUCA,DESCONOCIDOS,Comunero indígena liberador de la madre tierra,INDIGENA
-BELISARIO BENAVIDEZ ORDÓÑEZ,H,31/03/2018,ROSAS,CAUCA,DESCONOCIDOS,"Reconocido dirigente social e integrante de la Mesa de Víctimas del Municipio, que había llegado a la zona hace aproximadamente cinco años, desde El Patía, de donde fue desplazado por violencia.",VICTIMAS
-ALVARO PEREZ,H,04/04/2018,TIBU,NORTE DE SANTANDER,DESCONOCIDOS,"Integrante de la Asociación Campesina del Catatumbo (Ascamcat), Marcha Patriótica",CAMPESINO
-SAUL MENDIETA,H,04/04/2018,SOLEDAD,ATLANTICO,DESCONOCIDOS,Dirigente comunal que hacia parte del comité de deporte de JAC Villa del Rey,COMUNAL
-FERNEY LOZADA,H,03/04/2018,PUERTO RICO,CAQUETA,DESCONOCIDOS,Secretario General del Sindicato Único de Mototrabajadores de Colombia – SUNMCOL,SINDICALISTA
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-YOVANY VELASCO ARIZA,H,07/04/2018,SAN JOSE DEL GUAVIARE,GUAVIARE,DESCONOCIDOS,"Afiliado a la Junta de Acción Comunal de la vereda Caño Mosco, Puerto Flórez, municipio de San José Del Guaviare, había sido Dignatario de la Junta de Acción Comunal, en varios periodos, y en la actualidad representaban a su comunidad en el Núcleo Guacamaya, grupo motor, como la ruta de construcción del programa de Desarrollo con Enfoque Diferencial PDEF que viene adelantando la Agencia de Renovación Del Territorio ARN.",CAMPESINO – COMUNAL
-WILSON ARNULFO QUETAMA,H,08/04/2018,SAN JOSE DEL PALMAR,CHOCO,ELN,"Comerciante del municipio, ex coordinador de la Mesa de Participación de Víctimas de San José del Palmar en 2017, y actual líder del proceso de reparación colectiva",VICTIMAS
-CLAUDIO CHAVES,H,09/04/2018,SAN JOSE DEL PALMAR,CHOCO,ELN,"Presidente de la JAC de Suramita en el año 2014, y actualmente lideraba unos proyectos de Piscicultura y Siembra de chontaduro y borojó a través de la asociación ASOMI",CAMPESINO – COMUNAL
-EFRÉN ZUÑIGA DORADO,H,14/04/2018,PIENDAMO,CAUCA,DESCONOCIDOS,"Docente afiliado a ASOINCA y docente de la Institución educativa del Melcho del municipio Piendamó,",DOCENTE
-OBDULIO ANGULO ZAMORA,H,17/04/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica. Desaparecidos forzosamente el 17 de Abril y el día 3 de junio se anunció su asesinato",AFRODESCENDIENTE
-HERMES ANGULO ZAMORA,H,17/04/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica. Desaparecidos forzosamente el 17 de Abril y el día 3 de junio se anunció su asesinato",AFRODESCENDIENTE
-SIMEÓN OLAVE ANGULO,H,17/04/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica. Desaparecidos forzosamente el 17 de Abril y el día 3 de junio se anunció su asesinato",AFRODESCENDIENTE
-JAMES LUIS JIMENEZESTRADA,H,20/04/2018,SAN PEDRO DE URABA,ANTIOQUIA,DESCONOCIDOS,Presidente de la Junta de Acción Comunal de la vereda Cacahual Corregimiento San Vicente del Congo de turbo,CAMPESINO – COMUNAL
-MARÍA DEL CARMEN MORENO,M,28/04/2018,ARAUQUITA,ARAUCA,DESCONOCIDOS,Presidenta de la Junta de Acción Comunal de la vereda Caño Rico,CAMPESINO – COMUNAL
-HUGO ALBEIRO GEORGE PÉREZ,H,02/05/2018,VALDIVIA,ANTIOQUIA,DESCONOCIDOS,Integrante de la Asociación de Víctimas y Afectados por Megaproyectos ASVAM El Aro del municipio de Ituango articulada al Movimiento Ríos Vivos,CAMPESINO – AMBIENTALISTA
-LUIS ALBERTO TORRES MONTOYA,H,05/05/2018,VALDIVIA,ANTIOQUIA,DESCONOCIDOS,Pescador y barequero del Río Cauca integrante de la Asociación de Pequeños Mineros y Pequeros de Puerto Valdivia AMPA articulada al Movimiento Ríos Vivos Antioquia.,CAMPESINO – AMBIENTALISTA
-IBER ANTONIO ANGULO ZAMORA,H,05/05/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica y COCAM. Desaparecidos forzosamente el 5 de mayo y el dia 3 de junio se anunció su asesinato",AFRODESCENDIENTE – PNIS
-HAROLD LERMA PALACIO,H,13/05/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Líder social, quien hacía parte del programa de restitución de cultivos ilícitos. Hasta hace 6 meses perteneció a la Junta de Acción Comunal, JAC, de su vereda, de la cual hasta ahora fue asesor.",CAMPESINO – PNIS
-RAMON ASCUE,H,14/05/2018,CORINTO,CAUCA,DESCONOCIDOS,Comunero indígena y liberador de la madre tierra perteneciente a la vereda Pan de Azúcar de la comunidad indígena de Corinto Cauca,INDIGENA
-PABLO EMILIO MORENO,H,17/05/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Había llegado al resguardo Gran Rosario desde hace ya varios años. Convivía con una indígena Awá, tenían 4 hijos menores de edad inkal Awá",INDIGENA
-FELIX CASTAÑEDA,H,18/05/2018,CANTAGALLO,BOLIVAR,DESCONOCIDOS,"Miembro de la Junta de Acción Comunal de la vereda Chaparral, y también delegado por la comunidad a la Coordinadora de Cultivadores de Coca, Amapola y Marihuana - Coccam.",COMUNAL - PNIS
-YADIRA SUCERQUIA MACÍAS,M,19/05/2018,TIERRA ALTA,CORDOBA,DESCONOCIDOS,"En la humilde morada del campesino Orlando Ortiz, conocido popularmente como el ""lato"", quien hace parte del PNIS fue hallado el cuerpo sin vida de su esposa Yadira, y a Orlando en muy mal estado",CAMPESINO – PNIS
-VICTOR CORREA,H,23/05/2018,REMEDIOS,ANTIOQUIA,DESCONOCIDOS,Minero en la vereda Altos de Manila,MINERO
-CRISTIAN ANDRÉS LOZANO,H,23/05/2018,ANDALUCIA,VALLE DEL CAUCA,DESCONOCIDOS,Trabajador afiliado a SINALTRAINAL,SINDICALISTA
-LUIS EDUARDO DOMÍNGUEZ,H,23/05/2018,ANDALUCIA,VALLE DEL CAUCA,DESCONOCIDOS,Trabajador afiliado a SINALTRAINAL,SINDICALISTA
-GABRIEL MUÑOZ MUÑOZ,H,26/05/2018,LA ARGENTINA,HUILA,DESCONOCIDOS,"Líder campesino que venía denunciando presuntos hechos de corrupción en la alimentación escolar en su comunidad. Además, era defensor del territorio y del agua; formaba parte de Vemos Todo, un proceso de veeduría ciudadana con alto compromiso social. Iba a fungir como delegado a la mesa 23 de su municipio para las elecciones presidenciales, en representación de la coalición Colombia Humana.",CAMPESINO – COLOMBIA HUMANA
-PABLO EMILIO DAGUA TAQUINAS,H,26/05/2018,BUENAVENTURA,VALLE DEL CAUCA,DESCONOCIDOS,"Quien pertenecía al Cabildo Nasa Kiwe del Resguardo Nasa Embera Chamí, en el corregimiento de La Delfina, en Buenaventura. Pertenecientes a la Organización Indígena del Valle del Cauca-ORIVAC y a la Asociación de Cabildos Indígenas del Valle del Cauca Región Pacífico ACIVAC-RP.",INDIGENA
-ADRIANA MONTERO PARRA,M,26/05/2018,BUENAVENTURA,VALLE DEL CAUCA,DESCONOCIDOS,Quien pertenecía al Resguardo Triunfo Cristal Páez del municipio de Florida. Pertenecientes a la Organización Indígena del Valle del Cauca- ORIVAC y a la Asociación de Cabildos Indígenas del Valle del Cauca Región Pacífico ACIVAC-RP.,INDIGENA
-JEFFERSON MONROY,H,28/05/2018,MONTAÑITA,CAQUETA,EJERCITO,Dignatarios comunales,CAMPESINO – COMUNAL
-JUVENAL SILVA,H,28/05/2018,MONTAÑITA,CAQUETA,EJERCITO,Dignatarios comunales,CAMPESINO – COMUNAL
-AMILCAR YAGARÍ SIAGAMA,H,28/05/2018,EL DOVIO,VALLE DEL CAUCA,DESCONOCIDOS,"ex gobernador, guardia indígena y dirigente Embera Chamí,",INDIGENA
-DALMAYRO REYES,H,30/05/2018,DAGUA,VALLE DEL CAUCA,DESCONOCIDOS,Docente y líder comunitario,DOCENTE
-ORLANDO NEGRETE,H,02/06/2018,TIERRA ALTA,CORDOBA,DESCONOCIDOS,"presidente de la Junta de Acción Comunal del Camu Las Delicias,",CAMPESINO – COMUNAL
-CARLOS JIMMY PRADO GALLARDO,H,02/06/2018,OLAYA HERRERA,NARIÑO,DESCONOCIDOS,"Directivo ASOCOETNAR, Representante legal de Satinga Joven y Delegado al Espacio Nacional de Consulta Previa por las Comunidades Negras del Pacífico Nariñense, CONAFRO y Marcha Patriótica",AFRODESCENDIENTE
-JULIO CESAR MONTALVO,H,02/06/2018,MONTELIBANO,CORDOBA,DESCONOCIDOS,"hermano de la gobernadora indígena Meisa Montalvo Teherán, del cabildo la Meta Territorial del resguardo Senú alto San Jorge",INDIGENA
-YEISON RAMIREZ,H,11/06/2018,VALLE DEL GUAMUEZ,PUTUMAYO,DESCONOCIDOS,Presidente Junta de Acción Comunal vereda la Yet,CAMPESINO – COMUNAL
-FRANCISCO JOSÉ GUERRA GUERRA,H,11/06/2018,ITUANGO,ANTIOQUIA,DESCONOCIDOS,Líder comunitario en calidad de presidente de la junta de acción comunal de la vereda El mandarino.,CAMPESINO – COMUNAL
-HOLMAN MAMIAN,H,12/06/2018,LA VEGA,CAUCA,DESCONOCIDOS,Docente la Institución Educativa Santa Rita sede el Ventiadero del municipio de la Vega-Cauca. Afiliado a ASOINCA,DOCENTE
-ARNULFO CATIMAYBLANCO,H,19/06/2018,SANTA ROSALIA,VICHADA,POLICIA,Pueblo Saliva en Vichada,INDIGENA
-CRISTIAN ANDREY RODRÍGUEZ SÁNCHEZ,H,20/06/2018,HACARI,NORTE DE SANTANDER,EPL,Líder comunal,CAMPESINO
-LUIS CARLOS CABRERA SEGURA,H,20/06/2018,FLORENCIA,CAQUETA,DESCONOCIDOS,Presidente de la Junta de Acción Comunal del barrio El Berlín,COMUNAL
-EVELIA FRANCISCA ATENCIA PEREZ,M,21/06/2018,MAICAO,GUAJIRA,DESCONOCIDOS,Docente sindicalista integrante de la Colombia Humana,DOCENTE – COLOMBIA HUMANA
-HECTOR SANTIAGO ANTELIZ,H,21/06/2018,TEORAMA,NORTE DE SANTANDER,DESCONOCIDOS,"Actualmente el líder hacía parte de ASCAMCAT, como responsable de coordinar el Comité Veredal en San José. También se desempeñaba como presidente de la Junta de Acción Comunal. MAPA",CAMPESINO
-JANER ALBERTO CORREA  ARBOLEDA,H,23/06/2018,TEORAMA,NORTE DESANTANDER,DESCONOCIDOS,,CAMPESINO
-ADRIAN PEREZ,H,23/06/2018,CURVARADO,CHOCO,ACG,Hijo de reclamante de tierras,AFRODESCENDIENTE
-JOSE ABRAHAM GARCIA,H,25/06/2018,ITUANGO,ANTIOQUIA,DESCONOCIDOS,Presidente JAC Pascuita,CAMPESINO – COMUNAL
-JAMER ALBEIRO IDROBO NAVIA,H,26/06/2018,EL BORDO,CAUCA,DESCONOCIDOS,Integrante del comité Cocalero Vereda La Joaquina y COCCAM,CAMPESINO – PNIS
-JULIO CESAR SUCERQUIA,H,27/06/2018,ITUANGO,ANTIOQUIA,DESCONOCIDOS,Miembro fundacional de La asociación de Comité de Barequeros del Norte de Antioquia,MINERO
-LUIS ERARDO FERNÁNDEZ VELASCO,H,28/06/2018,CALOTO,CAUCA,DESCONOCIDOS,"Reconocido en la zona por su trabajo social comunitario ya que en el año 2004 se graduó como bachiller académico en la Institución Educativa Marden Arnulfo Betancur; durante el 2004 – 2005 fue autoridad Khambuesx de su vereda, seguidamente fue fundador y coordinador del movimiento Juvenil de su vereda durante varios años y actualmente se desempeñaba como capitán del equipo de futbol de su comunidad",INDIGENA
-IVAN DE JESUS LAZARO MAZO,H,29/06/2018,PUERTO LIBERTADOR,CORDOBA,DESCONOCIDOS,"Integrante de ACSUCOR y Marcha Patriótica, Ex secretario JAC Vereda Rogero",CAMPESINO
-LEONEDIS ALEISER SIERRA ORTIZ,H,02/07/2018,TARAZA,ANTIOQUIA,DESCONOCIDOS,"Miembro la Junta de Acción Comunal de San Agustín Bajo, corregimiento de El Guáimaro, de Tarazá",CAMPESINO – COMUNAL
-GABRIEL ADOLFO CORREA CHAVESTAN,H,02/07/2018,BUENOS AIRES,CAUCA,DESCONOCIDOS,"Concejal por el Partido Verde, trabajo en la Colombia Humana",COLOMBIA HUMANA
-DAVID MEJIA PRIETO,H,02/07/2018,LAMONTAÑITA,CAQUETA,DESCONOCIDOS,Ex presidente Junta de Acción Comunal de Provivienda en el asentamiento Virgen del Carmen,CAMPESINO – COMUNAL
-SANTA FELICINDA SANTAMARIA,M,03/07/2018,QUIBDO,CHOCO,DESCONOCIDOS,Presidenta JAC del Barrio Virgen del Carmen,COMUNAL
-LUIS BARRIOS MACHADO,H,03/07/2018,PALMAR DE VARELA,ATLANTICO,DESCONOCIDOS,Presidente ASOCOMUNAL Palmar de Varela,COMUNAL
-MARGARITA ESTUPIÑAN USCATEGUI,M,04/07/2018,TUMACO,NARIÑO,DESCONOCIDOS,Presidenta JAC Barrio el recreo vereda Vaquerio Llorente,COMUNAL
-ANA MARIA CORTEZ MENA,M,04/07/2018,CACERES,ANTIOQUIA,DESCONOCIDOS,Coordinadora Municipal de la Colombia Humana,COLOMBIA HUMANA
-ANCISAR CIFUENTES,H,04/07/2018,CHAPARRAL,TOLIMA,DESCONOCIDOS,Líder social,CIVICO
-FRANCISCO DOBIGAMA,H,04/07/2018,ORITO,PUTUMAYO,DESCONOCIDOS,Comunero Cabildo Indígena Caña Bravita,INDIGENA
-DARIO DOBIGAMA,H,04/07/2018,ORITO,PUTUMAYO,DESCONOCIDOS,Comunero Cabildo Indígena Caña Bravita,INDIGENA
+JAIMES TRIANA",H,26/02/2018,BUCARAMANGA,SANTANDER,DESCONOCIDOS,Un joven que era ejemplo de liderazgo y superación. Se destacaba por sus obras sociales y por ser líder de la comuna 10 de Bucaramanga.,CIVICO,
+SONEYDA FIGUEROA DUARTE,M,26/02/2018,PUERTO ASIS,PUTUMAYO,DESCONOCIDOS,Defensora Publica,DEFENSORIA DEL PUEBLO,
+BERLINDA GÓMEZ,M,27/02/2018,MAPIRIPAN,META,DESCONOCIDOS,De la comunidad indígena Jiw era habitante del Resguardo Mocuare,INDIGENA,
+JULIO CESAR URANGO SANCHEZ,H,01/03/2018,CAUCASIA,ANTIOQUIA,DESCONOCIDOS,Comunero indígena Senú trige dos,INDIGENA,
+HERMILSUN LARRAONDA RENDON,H,03/03/2018,ORITO,PUTUMAYO,DESCONOCIDOS,"Presidente de la Junta de Acción Comunal del barrio Los Alpes, municipio Orito, departamento Putumayo",COMUNAL,
+EIDER ARLEY CAMPO HURTADO,H,05/03/2018,CALDONO,CAUCA,DESCONOCIDOS,"Integrante del colectivo de comunicaciones del Consejo Regional Indígena del Cauca, Cric y la emisora Pioyá Estéreo.",INDIGENA,
+LUIS ARTURO ROYET CAMPO,H,06/03/2018,SAN JOSÉ DE URÉ,CORDOBA,DESCONOCIDOS,"Presidente de la Junta de Acción Comunal de la vereda Santa Isabel, corregimiento Doradas, Municipio San José de Ure Departamento de Córdoba",CAMPESINO – COMUNAL,
+VICTOR HUGO MARTINEZ BARRAGAN,H,06/03/2018,CIMITARRA,SANTANDER,DESCONOCIDOS,"Representante Legal Asociación Campesina ""La Nueva Esperanza""",CAMPESINO – COMUNAL,
+TOMAS BARRETO MORENO,H,07/03/2018,SAN JOSÉ DE URÉ,CORDOBA,DESCONOCIDOS,Miembro del Consejo Comunitario de Negritudes en San José de Uré y sobrino de un concejal de la localidad,AFRODESCENDIENTE,
+JUAN GABRIEL PASCAL TAICUS,H,17/03/2018,BARBACOAS,NARIÑO,DESCONOCIDOS,"joven Awá, menor de edad de 15 años comunero del resguardo indígena Awá Tronqueria Pulgande Palicito",INDIGENA,
+LUIS FERNANDO HERNÁNDEZ HERNÁNDEZ,H,17/03/2018,CAUCASIA,ANTIOQUIA,DESCONOCIDOS,"Etnia Senú, perteneciente al Cabildo Senú de Santa Rosita, del municipio Caucasia (Antioquia).",INDIGENA,
+JUAN MENA,H,19/03/2018,QUIBDO,CHOCO,DESCONOCIDOS,"Presidente de la Junta de Acción Comunal del barrio los Álamos, sector de la Arrocera, Comuna 1",COMUNAL,
+SILVIO DUBAN ORTIZ,H,19/03/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Los dos jóvenes eran hermanos, uno de ellos, Javier Bernardo Ortiz era hijo del también asesinado Bernardo Cuero Bravo, Fiscal Nacional de AFRODES",AFRODESCENDIENTE,
+JAVIER BERNARDO CUERO ORTIZ,H,19/03/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Los dos jóvenes eran hermanos, uno de ellos, Javier Bernardo Ortiz era hijo del también asesinado Bernardo Cuero Bravo, Fiscal Nacional de AFRODES",AFRODESCENDIENTE,
+JOSE ANIBAL HERRERA,H,20/03/2018,VALDIVIA,ANTIOQUIA,DESCONOCIDOS,"Líder campesino y defensor de DH, fundador de ASOCBAC, integrante de la COCCAM y de Marcha Patriótica vocero en la comisión Municipal de planeación participativa del PNIS en Valdivia.",CAMPESINO – PNIS,
+JOSE ALCIDES OSPINA ARANGO,H,22/03/2018,PENSILVANIA,CALDAS,DESCONOCIDOS,presidente de la Junta de Acción Comunal de la vereda Guayaquil,CAMPESINO – COMUNAL,
+LISANDRO ANTONIO HERNANDEZ TRIVIÑO,H,24/03/2018,EL TAMBO,CAUCA,DESCONOCIDOS,"Sobreviviente de la UP hijo de un ex militante y sobrevivientes de la Unión Patriótica (UP) en el municipio de El Tambo, Cauca.",CAMPESINO,
+JOSE WILSON ESCUE VITONCO,H,25/03/2018,CALOTO,CAUCA,POLICIA – EJERCITO NACIONAL,Comunero indígena del resguardo de Huellas Caloto,INDIGENA,
+VÍCTOR ALFONSO ZABALETA OVIEDO,H,25/03/2018,CAUCACIA,ANTIOQUIA,DESCONOCIDOS,Presidente de junta de acción comunal de la vereda El Rizo del municipio de Cáceres y hacía parte del programa de sustitución de cultivos de uso ilícito,CAMPESINO – COMUNAL - PNIS,
+JORGE MIGUEL POLANCO AVILA,H,25/03/2018,CACERES,ANTIOQUIA,DESCONOCIDOS,Ex presidente de la junta de acción comunal de la vereda Caño Prieto del municipio de Cáceres,CAMPESINO – COMUNAL,
+ISRAEL FAJARDO,H,27/03/2018,MACARENA,META,DESCONOCIDOS,"En el año 1968, con un grupo de personas de la vereda, le dieron origen a la primera Junta de Acción Comunal, de la cual fue su Dignatario por muchos años.",CAMPESINO – COMUNAL,
+MARÍA MAGDALENA CRUZ ROJAS,M,30/03/2018,MAPIRIPAN,META,DESCONOCIDOS,"Hacía parte del programa de sustitución de cultivos ilícitos en sector de Brizas del Iteviare, inspección de Rincón del Indio, en Mapiripán.",CAMPESINO – PNIS,
+HÉCTOR JANER LATÍN,H,30/03/2018,CORINTO,CAUCA,DESCONOCIDOS,Comunero indígena liberador de la madre tierra,INDIGENA,
+BELISARIO BENAVIDEZ ORDÓÑEZ,H,31/03/2018,ROSAS,CAUCA,DESCONOCIDOS,"Reconocido dirigente social e integrante de la Mesa de Víctimas del Municipio, que había llegado a la zona hace aproximadamente cinco años, desde El Patía, de donde fue desplazado por violencia.",VICTIMAS,
+ALVARO PEREZ,H,04/04/2018,TIBU,NORTE DE SANTANDER,DESCONOCIDOS,"Integrante de la Asociación Campesina del Catatumbo (Ascamcat), Marcha Patriótica",CAMPESINO,
+SAUL MENDIETA,H,04/04/2018,SOLEDAD,ATLANTICO,DESCONOCIDOS,Dirigente comunal que hacia parte del comité de deporte de JAC Villa del Rey,COMUNAL,
+FERNEY LOZADA,H,03/04/2018,PUERTO RICO,CAQUETA,DESCONOCIDOS,Secretario General del Sindicato Único de Mototrabajadores de Colombia – SUNMCOL,SINDICALISTA,
+YOVANY VELASCO ARIZA,H,07/04/2018,SAN JOSE DEL GUAVIARE,GUAVIARE,DESCONOCIDOS,"Afiliado a la Junta de Acción Comunal de la vereda Caño Mosco, Puerto Flórez, municipio de San José Del Guaviare, había sido Dignatario de la Junta de Acción Comunal, en varios periodos, y en la actualidad representaban a su comunidad en el Núcleo Guacamaya, grupo motor, como la ruta de construcción del programa de Desarrollo con Enfoque Diferencial PDEF que viene adelantando la Agencia de Renovación Del Territorio ARN.",CAMPESINO – COMUNAL,
+WILSON ARNULFO QUETAMA,H,08/04/2018,SAN JOSE DEL PALMAR,CHOCO,ELN,"Comerciante del municipio, ex coordinador de la Mesa de Participación de Víctimas de San José del Palmar en 2017, y actual líder del proceso de reparación colectiva",VICTIMAS,
+CLAUDIO CHAVES,H,09/04/2018,SAN JOSE DEL PALMAR,CHOCO,ELN,"Presidente de la JAC de Suramita en el año 2014, y actualmente lideraba unos proyectos de Piscicultura y Siembra de chontaduro y borojó a través de la asociación ASOMI",CAMPESINO – COMUNAL,
+EFRÉN ZUÑIGA DORADO,H,14/04/2018,PIENDAMO,CAUCA,DESCONOCIDOS,"Docente afiliado a ASOINCA y docente de la Institución educativa del Melcho del municipio Piendamó,",DOCENTE,
+OBDULIO ANGULO ZAMORA,H,17/04/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica. Desaparecidos forzosamente el 17 de Abril y el día 3 de junio se anunció su asesinato",AFRODESCENDIENTE,
+HERMES ANGULO ZAMORA,H,17/04/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica. Desaparecidos forzosamente el 17 de Abril y el día 3 de junio se anunció su asesinato",AFRODESCENDIENTE,
+SIMEÓN OLAVE ANGULO,H,17/04/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica. Desaparecidos forzosamente el 17 de Abril y el día 3 de junio se anunció su asesinato",AFRODESCENDIENTE,
+JAMES LUIS JIMENEZESTRADA,H,20/04/2018,SAN PEDRO DE URABA,ANTIOQUIA,DESCONOCIDOS,Presidente de la Junta de Acción Comunal de la vereda Cacahual Corregimiento San Vicente del Congo de turbo,CAMPESINO – COMUNAL,
+MARÍA DEL CARMEN MORENO,M,28/04/2018,ARAUQUITA,ARAUCA,DESCONOCIDOS,Presidenta de la Junta de Acción Comunal de la vereda Caño Rico,CAMPESINO – COMUNAL,
+HUGO ALBEIRO GEORGE PÉREZ,H,02/05/2018,VALDIVIA,ANTIOQUIA,DESCONOCIDOS,Integrante de la Asociación de Víctimas y Afectados por Megaproyectos ASVAM El Aro del municipio de Ituango articulada al Movimiento Ríos Vivos,CAMPESINO – AMBIENTALISTA,
+LUIS ALBERTO TORRES MONTOYA,H,05/05/2018,VALDIVIA,ANTIOQUIA,DESCONOCIDOS,Pescador y barequero del Río Cauca integrante de la Asociación de Pequeños Mineros y Pequeros de Puerto Valdivia AMPA articulada al Movimiento Ríos Vivos Antioquia.,CAMPESINO – AMBIENTALISTA,
+IBER ANTONIO ANGULO ZAMORA,H,05/05/2018,BUENAVENTURA,VALLE DEL CAUCA,DISIDENCIA,"Consejo comunitario del Rio Naya, Comité de impulso Marcha Patriótica y COCAM. Desaparecidos forzosamente el 5 de mayo y el dia 3 de junio se anunció su asesinato",AFRODESCENDIENTE – PNIS,
+HAROLD LERMA PALACIO,H,13/05/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Líder social, quien hacía parte del programa de restitución de cultivos ilícitos. Hasta hace 6 meses perteneció a la Junta de Acción Comunal, JAC, de su vereda, de la cual hasta ahora fue asesor.",CAMPESINO – PNIS,
+RAMON ASCUE,H,14/05/2018,CORINTO,CAUCA,DESCONOCIDOS,Comunero indígena y liberador de la madre tierra perteneciente a la vereda Pan de Azúcar de la comunidad indígena de Corinto Cauca,INDIGENA,
+PABLO EMILIO MORENO,H,17/05/2018,TUMACO,NARIÑO,DESCONOCIDOS,"Había llegado al resguardo Gran Rosario desde hace ya varios años. Convivía con una indígena Awá, tenían 4 hijos menores de edad inkal Awá",INDIGENA,
+FELIX CASTAÑEDA,H,18/05/2018,CANTAGALLO,BOLIVAR,DESCONOCIDOS,"Miembro de la Junta de Acción Comunal de la vereda Chaparral, y también delegado por la comunidad a la Coordinadora de Cultivadores de Coca, Amapola y Marihuana - Coccam.",COMUNAL - PNIS,
+YADIRA SUCERQUIA MACÍAS,M,19/05/2018,TIERRA ALTA,CORDOBA,DESCONOCIDOS,"En la humilde morada del campesino Orlando Ortiz, conocido popularmente como el ""lato"", quien hace parte del PNIS fue hallado el cuerpo sin vida de su esposa Yadira, y a Orlando en muy mal estado",CAMPESINO – PNIS,
+VICTOR CORREA,H,23/05/2018,REMEDIOS,ANTIOQUIA,DESCONOCIDOS,Minero en la vereda Altos de Manila,MINERO,
+CRISTIAN ANDRÉS LOZANO,H,23/05/2018,ANDALUCIA,VALLE DEL CAUCA,DESCONOCIDOS,Trabajador afiliado a SINALTRAINAL,SINDICALISTA,
+LUIS EDUARDO DOMÍNGUEZ,H,23/05/2018,ANDALUCIA,VALLE DEL CAUCA,DESCONOCIDOS,Trabajador afiliado a SINALTRAINAL,SINDICALISTA,
+GABRIEL MUÑOZ MUÑOZ,H,26/05/2018,LA ARGENTINA,HUILA,DESCONOCIDOS,"Líder campesino que venía denunciando presuntos hechos de corrupción en la alimentación escolar en su comunidad. Además, era defensor del territorio y del agua; formaba parte de Vemos Todo, un proceso de veeduría ciudadana con alto compromiso social. Iba a fungir como delegado a la mesa 23 de su municipio para las elecciones presidenciales, en representación de la coalición Colombia Humana.",CAMPESINO – COLOMBIA HUMANA,
+PABLO EMILIO DAGUA TAQUINAS,H,26/05/2018,BUENAVENTURA,VALLE DEL CAUCA,DESCONOCIDOS,"Quien pertenecía al Cabildo Nasa Kiwe del Resguardo Nasa Embera Chamí, en el corregimiento de La Delfina, en Buenaventura. Pertenecientes a la Organización Indígena del Valle del Cauca-ORIVAC y a la Asociación de Cabildos Indígenas del Valle del Cauca Región Pacífico ACIVAC-RP.",INDIGENA,
+ADRIANA MONTERO PARRA,M,26/05/2018,BUENAVENTURA,VALLE DEL CAUCA,DESCONOCIDOS,Quien pertenecía al Resguardo Triunfo Cristal Páez del municipio de Florida. Pertenecientes a la Organización Indígena del Valle del Cauca- ORIVAC y a la Asociación de Cabildos Indígenas del Valle del Cauca Región Pacífico ACIVAC-RP.,INDIGENA,
+JEFFERSON MONROY,H,28/05/2018,MONTAÑITA,CAQUETA,EJERCITO,Dignatarios comunales,CAMPESINO – COMUNAL,
+JUVENAL SILVA,H,28/05/2018,MONTAÑITA,CAQUETA,EJERCITO,Dignatarios comunales,CAMPESINO – COMUNAL,
+AMILCAR YAGARÍ SIAGAMA,H,28/05/2018,EL DOVIO,VALLE DEL CAUCA,DESCONOCIDOS,"ex gobernador, guardia indígena y dirigente Embera Chamí,",INDIGENA,
+DALMAYRO REYES,H,30/05/2018,DAGUA,VALLE DEL CAUCA,DESCONOCIDOS,Docente y líder comunitario,DOCENTE,
+ORLANDO NEGRETE,H,02/06/2018,TIERRA ALTA,CORDOBA,DESCONOCIDOS,"presidente de la Junta de Acción Comunal del Camu Las Delicias,",CAMPESINO – COMUNAL,
+CARLOS JIMMY PRADO GALLARDO,H,02/06/2018,OLAYA HERRERA,NARIÑO,DESCONOCIDOS,"Directivo ASOCOETNAR, Representante legal de Satinga Joven y Delegado al Espacio Nacional de Consulta Previa por las Comunidades Negras del Pacífico Nariñense, CONAFRO y Marcha Patriótica",AFRODESCENDIENTE,
+JULIO CESAR MONTALVO,H,02/06/2018,MONTELIBANO,CORDOBA,DESCONOCIDOS,"hermano de la gobernadora indígena Meisa Montalvo Teherán, del cabildo la Meta Territorial del resguardo Senú alto San Jorge",INDIGENA,
+YEISON RAMIREZ,H,11/06/2018,VALLE DEL GUAMUEZ,PUTUMAYO,DESCONOCIDOS,Presidente Junta de Acción Comunal vereda la Yet,CAMPESINO – COMUNAL,
+FRANCISCO JOSÉ GUERRA GUERRA,H,11/06/2018,ITUANGO,ANTIOQUIA,DESCONOCIDOS,Líder comunitario en calidad de presidente de la junta de acción comunal de la vereda El mandarino.,CAMPESINO – COMUNAL,
+HOLMAN MAMIAN,H,12/06/2018,LA VEGA,CAUCA,DESCONOCIDOS,Docente la Institución Educativa Santa Rita sede el Ventiadero del municipio de la Vega-Cauca. Afiliado a ASOINCA,DOCENTE,
+ARNULFO CATIMAYBLANCO,H,19/06/2018,SANTA ROSALIA,VICHADA,POLICIA,Pueblo Saliva en Vichada,INDIGENA,
+CRISTIAN ANDREY RODRÍGUEZ SÁNCHEZ,H,20/06/2018,HACARI,NORTE DE SANTANDER,EPL,Líder comunal,CAMPESINO,
+LUIS CARLOS CABRERA SEGURA,H,20/06/2018,FLORENCIA,CAQUETA,DESCONOCIDOS,Presidente de la Junta de Acción Comunal del barrio El Berlín,COMUNAL,
+EVELIA FRANCISCA ATENCIA PEREZ,M,21/06/2018,MAICAO,GUAJIRA,DESCONOCIDOS,Docente sindicalista integrante de la Colombia Humana,DOCENTE – COLOMBIA HUMANA,
+HECTOR SANTIAGO ANTELIZ,H,21/06/2018,TEORAMA,NORTE DE SANTANDER,DESCONOCIDOS,"Actualmente el líder hacía parte de ASCAMCAT, como responsable de coordinar el Comité Veredal en San José. También se desempeñaba como presidente de la Junta de Acción Comunal. MAPA",CAMPESINO,
+JANER ALBERTO CORREA  ARBOLEDA,H,23/06/2018,TEORAMA,NORTE DESANTANDER,DESCONOCIDOS,,CAMPESINO,
+ADRIAN PEREZ,H,23/06/2018,CURVARADO,CHOCO,ACG,Hijo de reclamante de tierras,AFRODESCENDIENTE,
+JOSE ABRAHAM GARCIA,H,25/06/2018,ITUANGO,ANTIOQUIA,DESCONOCIDOS,Presidente JAC Pascuita,CAMPESINO – COMUNAL,
+JAMER ALBEIRO IDROBO NAVIA,H,26/06/2018,EL BORDO,CAUCA,DESCONOCIDOS,Integrante del comité Cocalero Vereda La Joaquina y COCCAM,CAMPESINO – PNIS,
+JULIO CESAR SUCERQUIA,H,27/06/2018,ITUANGO,ANTIOQUIA,DESCONOCIDOS,Miembro fundacional de La asociación de Comité de Barequeros del Norte de Antioquia,MINERO,
+LUIS ERARDO FERNÁNDEZ VELASCO,H,28/06/2018,CALOTO,CAUCA,DESCONOCIDOS,"Reconocido en la zona por su trabajo social comunitario ya que en el año 2004 se graduó como bachiller académico en la Institución Educativa Marden Arnulfo Betancur; durante el 2004 – 2005 fue autoridad Khambuesx de su vereda, seguidamente fue fundador y coordinador del movimiento Juvenil de su vereda durante varios años y actualmente se desempeñaba como capitán del equipo de futbol de su comunidad",INDIGENA,
+IVAN DE JESUS LAZARO MAZO,H,29/06/2018,PUERTO LIBERTADOR,CORDOBA,DESCONOCIDOS,"Integrante de ACSUCOR y Marcha Patriótica, Ex secretario JAC Vereda Rogero",CAMPESINO,
+LEONEDIS ALEISER SIERRA ORTIZ,H,02/07/2018,TARAZA,ANTIOQUIA,DESCONOCIDOS,"Miembro la Junta de Acción Comunal de San Agustín Bajo, corregimiento de El Guáimaro, de Tarazá",CAMPESINO – COMUNAL,
+GABRIEL ADOLFO CORREA CHAVESTAN,H,02/07/2018,BUENOS AIRES,CAUCA,DESCONOCIDOS,"Concejal por el Partido Verde, trabajo en la Colombia Humana",COLOMBIA HUMANA,
+DAVID MEJIA PRIETO,H,02/07/2018,LAMONTAÑITA,CAQUETA,DESCONOCIDOS,Ex presidente Junta de Acción Comunal de Provivienda en el asentamiento Virgen del Carmen,CAMPESINO – COMUNAL,
+SANTA FELICINDA SANTAMARIA,M,03/07/2018,QUIBDO,CHOCO,DESCONOCIDOS,Presidenta JAC del Barrio Virgen del Carmen,COMUNAL,
+LUIS BARRIOS MACHADO,H,03/07/2018,PALMAR DE VARELA,ATLANTICO,DESCONOCIDOS,Presidente ASOCOMUNAL Palmar de Varela,COMUNAL,
+MARGARITA ESTUPIÑAN USCATEGUI,M,04/07/2018,TUMACO,NARIÑO,DESCONOCIDOS,Presidenta JAC Barrio el recreo vereda Vaquerio Llorente,COMUNAL,
+ANA MARIA CORTEZ MENA,M,04/07/2018,CACERES,ANTIOQUIA,DESCONOCIDOS,Coordinadora Municipal de la Colombia Humana,COLOMBIA HUMANA,
+ANCISAR CIFUENTES,H,04/07/2018,CHAPARRAL,TOLIMA,DESCONOCIDOS,Líder social,CIVICO,
+FRANCISCO DOBIGAMA,H,04/07/2018,ORITO,PUTUMAYO,DESCONOCIDOS,Comunero Cabildo Indígena Caña Bravita,INDIGENA,
+DARIO DOBIGAMA,H,04/07/2018,ORITO,PUTUMAYO,DESCONOCIDOS,Comunero Cabildo Indígena Caña Bravita,INDIGENA,
